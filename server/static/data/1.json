@@ -1,0 +1,3201 @@
+{
+  "id": 1,
+  "name": "Уровень 1",
+  "rounds": [
+    {
+      "id": 1,
+      "level_id": 1,
+      "name": "Stag Hunt",
+      "image": "assets/1/deerhunt.jpg",
+      "author": "Niccolò dell'",
+      "year": "1550-52",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 1,
+          "round_id": 1,
+          "text": "The students agree they have too much homework",
+          "translation": "Студенты согласны, что у них слишком много домашней работы"
+        },
+        {
+          "id": 2,
+          "round_id": 1,
+          "text": "They arrived at school at 7 a.m",
+          "translation": "Они прибыли в школу в 7 часов утра"
+        },
+        {
+          "id": 3,
+          "round_id": 1,
+          "text": "Is your birthday in August?",
+          "translation": "У тебя день рождения в августе?"
+        },
+        {
+          "id": 4,
+          "round_id": 1,
+          "text": "There is a small boat on the lake",
+          "translation": "На озере есть маленькая лодка"
+        },
+        {
+          "id": 5,
+          "round_id": 1,
+          "text": "I ate eggs for breakfast",
+          "translation": "Я ел яйца на завтрак"
+        },
+        {
+          "id": 6,
+          "round_id": 1,
+          "text": "I brought my camera on my vacation",
+          "translation": "Я принес свою камеру в отпуск"
+        },
+        {
+          "id": 7,
+          "round_id": 1,
+          "text": "The capital of the United States is Washington, D.C",
+          "translation": "Столица Соединенных Штатов - Вашингтон, округ Колумбия"
+        },
+        {
+          "id": 8,
+          "round_id": 1,
+          "text": "Did you catch the ball during the baseball game?",
+          "translation": "Вы поймали мяч во время игры в бейсбол?"
+        },
+        {
+          "id": 9,
+          "round_id": 1,
+          "text": "People feed ducks at the lake",
+          "translation": "Люди кормят уток у озера"
+        },
+        {
+          "id": 10,
+          "round_id": 1,
+          "text": "The woman enjoys riding her bicycle",
+          "translation": "Женщина любит кататься на велосипеде"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level_id": 1,
+      "name": "Deer beside a Lake",
+      "image": "assets/1/deerlake.jpg",
+      "author": "Carl Frederik",
+      "year": "1888",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 11,
+          "round_id": 2,
+          "text": "I will invite my friends to my birthday party",
+          "translation": "Я приглашаю своих друзей на мой день рождения"
+        },
+        {
+          "id": 12,
+          "round_id": 2,
+          "text": "I love my family very much",
+          "translation": "Я очень люблю свою семью"
+        },
+        {
+          "id": 13,
+          "round_id": 2,
+          "text": "January is the first month of the year",
+          "translation": "январь - первый месяц года"
+        },
+        {
+          "id": 14,
+          "round_id": 2,
+          "text": "They will travel to Argentina this summer",
+          "translation": "Этим летом они отправятся в Аргентину"
+        },
+        {
+          "id": 15,
+          "round_id": 2,
+          "text": "My typical breakfast is toast and eggs",
+          "translation": "Мой типичный завтрак - тост и яйца"
+        },
+        {
+          "id": 16,
+          "round_id": 2,
+          "text": "She wants to visit her grandmother",
+          "translation": "Она хочет навестить свою бабушку"
+        },
+        {
+          "id": 17,
+          "round_id": 2,
+          "text": "Today’s weather is rainy and cloudy",
+          "translation": "Сегодня погода дождливая и облачная"
+        },
+        {
+          "id": 18,
+          "round_id": 2,
+          "text": "What are you doing next week?",
+          "translation": "Что ты делаешь на следующей неделе?"
+        },
+        {
+          "id": 19,
+          "round_id": 2,
+          "text": "The store carried both red and white wine",
+          "translation": "В магазине было красное и белое вино"
+        },
+        {
+          "id": 20,
+          "round_id": 2,
+          "text": "Riding in the rough water was an adventure",
+          "translation": "Езда в бурной воде была приключением"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level_id": 1,
+      "name": "Country Road with Cypresses",
+      "image": "assets/1/abbati2.jpg",
+      "author": "ABBATI, Giuseppe",
+      "year": "1860",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 21,
+          "round_id": 3,
+          "text": "The boy approached his school",
+          "translation": "Мальчик приблизился к своей школе"
+        },
+        {
+          "id": 22,
+          "round_id": 3,
+          "text": "The baby carefully climbed down the stairs",
+          "translation": "Малыш осторожно спускался по лестнице"
+        },
+        {
+          "id": 23,
+          "round_id": 3,
+          "text": "The scientist mixed the chemicals",
+          "translation": "Ученый смешал химикаты"
+        },
+        {
+          "id": 24,
+          "round_id": 3,
+          "text": "She created an igloo from blocks of snow",
+          "translation": "Она создала иглу из снежных глыб"
+        },
+        {
+          "id": 25,
+          "round_id": 3,
+          "text": "The student did an experiment in science class",
+          "translation": "Студент сделал эксперимент в классе науки"
+        },
+        {
+          "id": 26,
+          "round_id": 3,
+          "text": "I killed the fly",
+          "translation": "Я убил муху"
+        },
+        {
+          "id": 27,
+          "round_id": 3,
+          "text": "My mother works in a laboratory",
+          "translation": "Моя мама работает в лаборатории"
+        },
+        {
+          "id": 28,
+          "round_id": 3,
+          "text": "The sound of her laugh filled the room",
+          "translation": "Звук ее смеха заполнил комнату"
+        },
+        {
+          "id": 29,
+          "round_id": 3,
+          "text": "The boy became nervous when he heard the news",
+          "translation": "Мальчик стал нервным, когда услышал новости"
+        },
+        {
+          "id": 30,
+          "round_id": 3,
+          "text": "The crying baby made a loud noise",
+          "translation": "Плачущий ребенок издал громкий шум"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level_id": 1,
+      "name": "Fireworks in Naples",
+      "image": "assets/1/firework.jpg",
+      "author": "ACHENBACH, Oswald",
+      "year": "1875",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 31,
+          "round_id": 4,
+          "text": "His afternoon work project was to paint the room green",
+          "translation": "Его дневной рабочий проект должен был покрасить комнату в зеленый цвет"
+        },
+        {
+          "id": 32,
+          "round_id": 4,
+          "text": "The two boys were sharing a secret",
+          "translation": "Два мальчика делились секретом"
+        },
+        {
+          "id": 33,
+          "round_id": 4,
+          "text": "The two friends smelled the flower",
+          "translation": "Два друга понюхали цветок"
+        },
+        {
+          "id": 34,
+          "round_id": 4,
+          "text": "The way he treated his classmate was terrible",
+          "translation": "То, как он относился к своему однокласснику, было ужасно"
+        },
+        {
+          "id": 35,
+          "round_id": 4,
+          "text": "Business was worse this month than last month",
+          "translation": "Бизнес был хуже в этом месяце, чем в прошлом месяце"
+        },
+        {
+          "id": 36,
+          "round_id": 4,
+          "text": "The alien came in peace",
+          "translation": "пришелец пришел с миром"
+        },
+        {
+          "id": 37,
+          "round_id": 4,
+          "text": "There was a red apple among the green ones",
+          "translation": "Среди зеленых было красное яблоко"
+        },
+        {
+          "id": 38,
+          "round_id": 4,
+          "text": "We used a chart to see how we had improved",
+          "translation": "Мы использовали график, чтобы увидеть, как мы улучшили"
+        },
+        {
+          "id": 39,
+          "round_id": 4,
+          "text": "The sky was filled with white clouds",
+          "translation": "Небо было наполнено белыми облаками"
+        },
+        {
+          "id": 40,
+          "round_id": 4,
+          "text": "Since he failed to get the job, he was sad",
+          "translation": "Так как он не смог получить работу, ему было грустно"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level_id": 1,
+      "name": "The Ninth Wave",
+      "image": "assets/1/9th_wave.jpg",
+      "author": "AIVAZOVSKY, Ivan Konstantinovich",
+      "year": "1850",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 41,
+          "round_id": 5,
+          "text": "I managed to get good grades on my report card",
+          "translation": "Мне удалось получить хорошие оценки на моем табеле"
+        },
+        {
+          "id": 42,
+          "round_id": 5,
+          "text": "He ate the carrot instead of the ice cream",
+          "translation": "Он съел морковку вместо мороженого"
+        },
+        {
+          "id": 43,
+          "round_id": 5,
+          "text": "The library at school is full of books",
+          "translation": "Библиотека в школе полна книг"
+        },
+        {
+          "id": 44,
+          "round_id": 5,
+          "text": "I took this photograph with my cell phone",
+          "translation": "Я сделал эту фотографию на свой мобильный"
+        },
+        {
+          "id": 45,
+          "round_id": 5,
+          "text": "Saturn is the planet with the ring around it",
+          "translation": "Сатурн - планета с кольцом вокруг него"
+        },
+        {
+          "id": 46,
+          "round_id": 5,
+          "text": "Karen had trouble writing her report",
+          "translation": "Карен не могла написать свой отчет"
+        },
+        {
+          "id": 47,
+          "round_id": 5,
+          "text": "He had to read several books for class",
+          "translation": "Он должен был прочитать несколько книг для класса"
+        },
+        {
+          "id": 48,
+          "round_id": 5,
+          "text": "All the students could easily solve the math problem",
+          "translation": "Все ученики могли легко решить математическую задачу"
+        },
+        {
+          "id": 49,
+          "round_id": 5,
+          "text": "I was surprised when my friends suddenly shouted, “Happy birthday!”",
+          "translation": "Я был удивлен, когда мои друзья вдруг закричали: 'С днем рождения!'"
+        },
+        {
+          "id": 50,
+          "round_id": 5,
+          "text": "I suppose I should go home now",
+          "translation": "Полагаю, мне пора домой"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "level_id": 1,
+      "name": "View of Campo Santi Giovanni e Paolo",
+      "image": "assets/1/campo.jpg",
+      "author": "ALBOTTO, Francesco",
+      "year": "1745",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 51,
+          "round_id": 6,
+          "text": "Henry could not understand the message",
+          "translation": "Генри не мог понять сообщение"
+        },
+        {
+          "id": 52,
+          "round_id": 6,
+          "text": "Michael likes to view himself in the mirror",
+          "translation": "Михаилу нравится видеть себя в зеркале"
+        },
+        {
+          "id": 53,
+          "round_id": 6,
+          "text": "Avoid the broken bottle on the floor",
+          "translation": "Избегайте разбитой бутылки на полу"
+        },
+        {
+          "id": 54,
+          "round_id": 6,
+          "text": "She always behaves well when her father is around",
+          "translation": "Она всегда ведет себя хорошо, когда ее отец рядом"
+        },
+        {
+          "id": 55,
+          "round_id": 6,
+          "text": "A nice warm bath makes me feel so calm",
+          "translation": "Хорошая теплая ванна заставляет меня чувствовать себя так спокойно"
+        },
+        {
+          "id": 56,
+          "round_id": 6,
+          "text": "I was filled with concern after reading the newspaper",
+          "translation": "Я был полон беспокойства после прочтения газеты"
+        },
+        {
+          "id": 57,
+          "round_id": 6,
+          "text": "The baby looked very content sitting on the floor",
+          "translation": "Ребенок выглядел очень довольным, сидя на полу"
+        },
+        {
+          "id": 58,
+          "round_id": 6,
+          "text": "I expect the bus to be here very soon",
+          "translation": "Я ожидаю, что автобус будет здесь очень скоро"
+        },
+        {
+          "id": 59,
+          "round_id": 6,
+          "text": "Smoking is a bad habit that can kill you",
+          "translation": "Курение - это вредная привычка, которая может тебя убить"
+        },
+        {
+          "id": 60,
+          "round_id": 6,
+          "text": "My teacher instructs us in several subjects",
+          "translation": "Мой учитель учит нас нескольким предметам"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "level_id": 1,
+      "name": "San Giuseppe di Castello",
+      "image": "assets/1/giuseppe.jpg",
+      "author": "ALBOTTO, Francesco",
+      "year": "1745",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 61,
+          "round_id": 7,
+          "text": "He spent all his money. There is none left",
+          "translation": "Он потратил все свои деньги. Там ничего не осталось"
+        },
+        {
+          "id": 62,
+          "round_id": 7,
+          "text": "My lawyer will represent me in court",
+          "translation": "Мой адвокат будет представлять меня в суде"
+        },
+        {
+          "id": 63,
+          "round_id": 7,
+          "text": "When people shake hands, it usually means they agree",
+          "translation": "Когда люди пожимают друг другу руки, это обычно означает, что они согласны"
+        },
+        {
+          "id": 64,
+          "round_id": 7,
+          "text": "I like to spread butter on my toast",
+          "translation": "Мне нравится разливать масло по моему тосту"
+        },
+        {
+          "id": 65,
+          "round_id": 7,
+          "text": "My dog and I strolled through the park today",
+          "translation": "Сегодня мы с собакой прогулялись по парку"
+        },
+        {
+          "id": 66,
+          "round_id": 7,
+          "text": "There are only a few houses in my village",
+          "translation": "В моей деревне всего несколько домов"
+        },
+        {
+          "id": 67,
+          "round_id": 7,
+          "text": "My mom and dad are adults",
+          "translation": "Мои мама и папа взрослые"
+        },
+        {
+          "id": 68,
+          "round_id": 7,
+          "text": "She died at the age of 80",
+          "translation": "Она умерла в возрасте 80 лет"
+        },
+        {
+          "id": 69,
+          "round_id": 7,
+          "text": "She is unhappy because she had a bad day",
+          "translation": "Она несчастна, потому что у нее был плохой день"
+        },
+        {
+          "id": 70,
+          "round_id": 7,
+          "text": "He rides his bike to school every day",
+          "translation": "Он ездит на велосипеде в школу каждый день"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "level_id": 1,
+      "name": "View of St.Petersburg",
+      "image": "assets/1/view_stp.jpg",
+      "author": "ALEKSEYEV, Fyodor Yakovlevich",
+      "year": "1795",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 71,
+          "round_id": 8,
+          "text": "You should go to the doctor when you are sick",
+          "translation": "Вы должны идти к врачу, когда вы больны"
+        },
+        {
+          "id": 72,
+          "round_id": 8,
+          "text": "Did you sleep during the movie?",
+          "translation": "Ты спал во время фильма?"
+        },
+        {
+          "id": 73,
+          "round_id": 8,
+          "text": "Football is a popular sport in the United States",
+          "translation": "Футбол - популярный вид спорта в Соединенных Штатах"
+        },
+        {
+          "id": 74,
+          "round_id": 8,
+          "text": "We had a fun time at the birthday party",
+          "translation": "Мы весело провели время на вечеринке по случаю дня рождения"
+        },
+        {
+          "id": 75,
+          "round_id": 8,
+          "text": "Let’s play a board game tonight",
+          "translation": "Давай поиграем в настольную игру сегодня вечером"
+        },
+        {
+          "id": 76,
+          "round_id": 8,
+          "text": "My heart beats fast when I am nervous",
+          "translation": "Мое сердце бьется быстро, когда я нервничаю"
+        },
+        {
+          "id": 77,
+          "round_id": 8,
+          "text": "People play golf in nice weather",
+          "translation": "Люди играют в гольф в хорошую погоду"
+        },
+        {
+          "id": 78,
+          "round_id": 8,
+          "text": "My grandfather had a long life",
+          "translation": "У моего деда была долгая жизнь"
+        },
+        {
+          "id": 79,
+          "round_id": 8,
+          "text": "A marathon is 42.2 kilometers",
+          "translation": "Марафон 42,2 километра"
+        },
+        {
+          "id": 80,
+          "round_id": 8,
+          "text": "He often goes to bed early during the week",
+          "translation": "Он часто ложится спать рано в течение недели"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "level_id": 1,
+      "name": "Landscape with the Finding of Moses",
+      "image": "assets/1/landmose.jpg",
+      "author": "ALLEGRAIN, Etienne",
+      "year": "second half of XVII century",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 81,
+          "round_id": 9,
+          "text": "We have plenty of fruit, so help yourself",
+          "translation": "У нас много фруктов, так что помогите себе"
+        },
+        {
+          "id": 82,
+          "round_id": 9,
+          "text": "I gained weight because I ate a lot of pizza",
+          "translation": "Я набрал вес, потому что я ел много пиццы"
+        },
+        {
+          "id": 83,
+          "round_id": 9,
+          "text": "They moved apart and then came back together",
+          "translation": "Они раздвинулись, а затем вернулись вместе"
+        },
+        {
+          "id": 84,
+          "round_id": 9,
+          "text": "I was completely wrong",
+          "translation": "Я был совершенно неправ"
+        },
+        {
+          "id": 85,
+          "round_id": 9,
+          "text": "It is very fashionable to wear a hat",
+          "translation": "Очень модно носить шляпу"
+        },
+        {
+          "id": 86,
+          "round_id": 9,
+          "text": "He has travelled widely in foreign countries",
+          "translation": "Он много путешествовал по зарубежным странам"
+        },
+        {
+          "id": 87,
+          "round_id": 9,
+          "text": "He used the mirror to shine light in their eyes",
+          "translation": "Он использовал зеркало, чтобы светить им в глаза"
+        },
+        {
+          "id": 88,
+          "round_id": 9,
+          "text": "We need to take care of the natural world",
+          "translation": "Нам нужно заботиться о мире природы"
+        },
+        {
+          "id": 89,
+          "round_id": 9,
+          "text": "Nowadays, not so many people smoke",
+          "translation": "В настоящее время не так много людей курят"
+        },
+        {
+          "id": 90,
+          "round_id": 9,
+          "text": "There were thousands of participants in this year’s marathon",
+          "translation": "В этом году в марафоне приняли участие тысячи человек"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "level_id": 1,
+      "name": "River Landscape",
+      "image": "assets/1/riverla2.jpg",
+      "author": "ALLEGRAIN, Etienne",
+      "year": "second half of XVII century",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 91,
+          "round_id": 10,
+          "text": "We cannot take back what has been spoken",
+          "translation": "Мы не можем забрать то, что было сказано"
+        },
+        {
+          "id": 92,
+          "round_id": 10,
+          "text": "She loves watching sport on TV",
+          "translation": "Она любит смотреть спорт по телевизору"
+        },
+        {
+          "id": 93,
+          "round_id": 10,
+          "text": "I am totally against that",
+          "translation": "Я полностью против этого"
+        },
+        {
+          "id": 94,
+          "round_id": 10,
+          "text": "Having a ticket will allow you to enter the show",
+          "translation": "Наличие билета позволит вам войти в шоу"
+        },
+        {
+          "id": 95,
+          "round_id": 10,
+          "text": "He announced to everyone his new idea for the company",
+          "translation": "Он объявил всем свою новую идею для компании"
+        },
+        {
+          "id": 96,
+          "round_id": 10,
+          "text": "The two brothers stood beside each other",
+          "translation": "Два брата стояли рядом друг с другом"
+        },
+        {
+          "id": 97,
+          "round_id": 10,
+          "text": "He claimed to know why the country’s laws were weak",
+          "translation": "Он утверждал, что знает, почему законы страны были слабыми"
+        },
+        {
+          "id": 98,
+          "round_id": 10,
+          "text": "The patient’s condition was very good",
+          "translation": "Состояние пациента было очень хорошим"
+        },
+        {
+          "id": 99,
+          "round_id": 10,
+          "text": "We decided to contribute money to the new hospital",
+          "translation": "Мы решили внести деньги в новую больницу"
+        },
+        {
+          "id": 100,
+          "round_id": 10,
+          "text": "We divided the pizza",
+          "translation": "Мы разделили пиццу"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "level_id": 1,
+      "name": "Extensive Wooded Landscape with Cephalus and Procris",
+      "image": "assets/1/extensiv.jpg",
+      "author": "ALSLOOT, Denis van",
+      "year": "first half of XVII century",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 101,
+          "round_id": 11,
+          "text": "The wizard was an expert at magic",
+          "translation": "Волшебник был экспертом в магии"
+        },
+        {
+          "id": 102,
+          "round_id": 11,
+          "text": "The Eiffel Tower in Paris is very famous",
+          "translation": "Эйфелева башня в Париже очень известна"
+        },
+        {
+          "id": 103,
+          "round_id": 11,
+          "text": "Don’t lay your socks on the floor",
+          "translation": "Не кладите носки на пол"
+        },
+        {
+          "id": 104,
+          "round_id": 11,
+          "text": "A white dove is a symbol of peace",
+          "translation": "Белый голубь - символ мира"
+        },
+        {
+          "id": 105,
+          "round_id": 11,
+          "text": "The prince and the princess were married",
+          "translation": "Принц и принцесса были женаты"
+        },
+        {
+          "id": 106,
+          "round_id": 11,
+          "text": "Firemen protect us from fires",
+          "translation": "Пожарные защищают нас от пожаров"
+        },
+        {
+          "id": 107,
+          "round_id": 11,
+          "text": "I could sense that he was watching me",
+          "translation": "Я чувствовал, что он смотрит на меня"
+        },
+        {
+          "id": 108,
+          "round_id": 11,
+          "text": "He felt a sudden pain in his chest",
+          "translation": "Он почувствовал внезапную боль в груди"
+        },
+        {
+          "id": 109,
+          "round_id": 11,
+          "text": "He is fat. Therefore, he should go on a diet",
+          "translation": "Он толстый. Поэтому ему следует сесть на диету"
+        },
+        {
+          "id": 110,
+          "round_id": 11,
+          "text": "I accepted the girl’s very nice gift",
+          "translation": "Я принял очень хороший подарок девушки"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "level_id": 1,
+      "name": "Skating during Carnival",
+      "image": "assets/1/skating.jpg",
+      "author": "ALSLOOT, Denis van",
+      "year": "1620",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 111,
+          "round_id": 12,
+          "text": "Please arrange the words in order from A to Z",
+          "translation": "Пожалуйста, расположите слова в порядке от А до Я"
+        },
+        {
+          "id": 112,
+          "round_id": 12,
+          "text": "My sister and I attend the same school",
+          "translation": "Мы с сестрой учимся в одной школе"
+        },
+        {
+          "id": 113,
+          "round_id": 12,
+          "text": "I was chased by a dog",
+          "translation": "Меня преследовала собака"
+        },
+        {
+          "id": 114,
+          "round_id": 12,
+          "text": "The contrast between my parents is very noticeable",
+          "translation": "Контраст между моими родителями очень заметен"
+        },
+        {
+          "id": 115,
+          "round_id": 12,
+          "text": "My football coach will encourage us when we are losing",
+          "translation": "Мой футбольный тренер будет воодушевлять нас, когда мы проигрываем"
+        },
+        {
+          "id": 116,
+          "round_id": 12,
+          "text": "The two friends were very familiar with each other",
+          "translation": "Два друга были очень знакомы друг с другом"
+        },
+        {
+          "id": 117,
+          "round_id": 12,
+          "text": "I grabbed a pear from the tree",
+          "translation": "Я схватил грушу с дерева"
+        },
+        {
+          "id": 118,
+          "round_id": 12,
+          "text": "At work, my father drives a huge truck",
+          "translation": "На работе мой отец водит огромный грузовик"
+        },
+        {
+          "id": 119,
+          "round_id": 12,
+          "text": "A passport is necessary if you travel to other countries",
+          "translation": "Паспорт необходим, если вы путешествуете в другие страны"
+        },
+        {
+          "id": 120,
+          "round_id": 12,
+          "text": "The purpose of exercising is to get into shape",
+          "translation": "Цель упражнений - прийти в форму"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "level_id": 1,
+      "name": "Winter Landscape",
+      "image": "assets/1/winter_l.jpg",
+      "author": "ALSLOOT, Denis van",
+      "year": "1610",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 121,
+          "round_id": 13,
+          "text": "She released the bird from her hands",
+          "translation": "Она выпустила птицу из рук"
+        },
+        {
+          "id": 122,
+          "round_id": 13,
+          "text": "We require teachers to have a university degree",
+          "translation": "Мы требуем, чтобы преподаватели имели высшее образование"
+        },
+        {
+          "id": 123,
+          "round_id": 13,
+          "text": "I am very satisfied with your work",
+          "translation": "Я очень доволен вашей работой"
+        },
+        {
+          "id": 124,
+          "round_id": 13,
+          "text": "I have a single key in my hand",
+          "translation": "У меня в руке один ключ"
+        },
+        {
+          "id": 125,
+          "round_id": 13,
+          "text": "It is easy to tear paper",
+          "translation": "Бумагу легко порвать"
+        },
+        {
+          "id": 126,
+          "round_id": 13,
+          "text": "We talked about Einstein’s theory of relativity in class",
+          "translation": "Мы говорили о теории относительности Эйнштейна в классе"
+        },
+        {
+          "id": 127,
+          "round_id": 13,
+          "text": "My favorite animal is the panda",
+          "translation": "Мое любимое животное - панда"
+        },
+        {
+          "id": 128,
+          "round_id": 13,
+          "text": "My father takes the bus to work",
+          "translation": "Мой отец садится на автобус на работу"
+        },
+        {
+          "id": 129,
+          "round_id": 13,
+          "text": "This cat is playing with a ball",
+          "translation": "Этот кот играет с мячом"
+        },
+        {
+          "id": 130,
+          "round_id": 13,
+          "text": "Joe gave the students a command to stand up",
+          "translation": "Джо дал студентам команду встать"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "level_id": 1,
+      "name": "Winter Landscape in the Fôret de Soignes, with the Flight Into Egypt",
+      "image": "assets/1/winterla.jpg",
+      "author": "ALSLOOT, Denis van",
+      "year": "1616",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 131,
+          "round_id": 14,
+          "text": "My grandfather depends on a cane when he walks",
+          "translation": "Мой дедушка зависит от трости, когда он гуляет"
+        },
+        {
+          "id": 132,
+          "round_id": 14,
+          "text": "This woman’s best friend is her dog",
+          "translation": "Лучший друг этой женщины - ее собака"
+        },
+        {
+          "id": 133,
+          "round_id": 14,
+          "text": "Can you close the door, please?",
+          "translation": "Можете ли вы закрыть дверь, пожалуйста?"
+        },
+        {
+          "id": 134,
+          "round_id": 14,
+          "text": "Brian’s friend is very sad",
+          "translation": "Друг Брайана очень грустный"
+        },
+        {
+          "id": 135,
+          "round_id": 14,
+          "text": "Michelle cannot hear what you are saying",
+          "translation": "Мишель не слышит, что ты говоришь"
+        },
+        {
+          "id": 136,
+          "round_id": 14,
+          "text": "Jane can help Nathan climb up the rock",
+          "translation": "Джейн может помочь Натану взобраться на скалу"
+        },
+        {
+          "id": 137,
+          "round_id": 14,
+          "text": "I went to a farm and saw a horse",
+          "translation": "Я пошел на ферму и увидел лошадь"
+        },
+        {
+          "id": 138,
+          "round_id": 14,
+          "text": "The doctor talks to a patient at the hospital",
+          "translation": "Доктор разговаривает с пациентом в больнице"
+        },
+        {
+          "id": 139,
+          "round_id": 14,
+          "text": "She hurt her leg",
+          "translation": "Она повредила ногу"
+        },
+        {
+          "id": 140,
+          "round_id": 14,
+          "text": "Tyler is a medical student studying to become a doctor",
+          "translation": "Тайлер студент-медик учится на доктора"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "level_id": 1,
+      "name": "View of Vienna from the Prater",
+      "image": "assets/1/viewvien.jpg",
+      "author": "ALT, Rudolf von",
+      "year": "1834",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 141,
+          "round_id": 15,
+          "text": "The children pull the rope",
+          "translation": "Дети тянут веревку"
+        },
+        {
+          "id": 142,
+          "round_id": 15,
+          "text": "Look at the rabbit in the park",
+          "translation": "Посмотри на кролика в парке"
+        },
+        {
+          "id": 143,
+          "round_id": 15,
+          "text": "The students study at school",
+          "translation": "Ученики учатся в школе"
+        },
+        {
+          "id": 144,
+          "round_id": 15,
+          "text": "Steven does not want to see the scary picture",
+          "translation": "Стивен не хочет видеть страшную картину"
+        },
+        {
+          "id": 145,
+          "round_id": 15,
+          "text": "This coffee shop has excellent service",
+          "translation": "В этой кофейне отличный сервис"
+        },
+        {
+          "id": 146,
+          "round_id": 15,
+          "text": "Being able to fly is a benefit to birds",
+          "translation": "Умение летать приносит пользу птицам"
+        },
+        {
+          "id": 147,
+          "round_id": 15,
+          "text": "I am certain that zebras have stripes",
+          "translation": "Я уверен, что у зебр есть полоски"
+        },
+        {
+          "id": 148,
+          "round_id": 15,
+          "text": "The medicine had a good effect on the boy",
+          "translation": "Лекарство оказало хорошее влияние на мальчика"
+        },
+        {
+          "id": 149,
+          "round_id": 15,
+          "text": "It is essential to have oxygen when you scuba dive",
+          "translation": "Крайне важно иметь кислород, когда вы погружаетесь с аквалангом"
+        },
+        {
+          "id": 150,
+          "round_id": 15,
+          "text": "The grass looked so soft and green",
+          "translation": "Трава выглядела такой мягкой и зеленой"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "level_id": 1,
+      "name": "An English 3rd - Rate Ship of the Line in Three Positions",
+      "image": "assets/1/rateship.jpg",
+      "author": "ANDERSON, William",
+      "year": "first half of XIX century",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 151,
+          "round_id": 16,
+          "text": "The police officer will guard us from any harm",
+          "translation": "Полицейский будет охранять нас от любого вреда"
+        },
+        {
+          "id": 152,
+          "round_id": 16,
+          "text": "The image of her eye was very clear",
+          "translation": "Образ ее глаза был очень четким"
+        },
+        {
+          "id": 153,
+          "round_id": 16,
+          "text": "An immediate response came from the pizza place",
+          "translation": "Немедленный ответ пришел из пиццерии"
+        },
+        {
+          "id": 154,
+          "round_id": 16,
+          "text": "His primary thoughts are about money",
+          "translation": "Его главные мысли о деньгах"
+        },
+        {
+          "id": 155,
+          "round_id": 16,
+          "text": "My sister had to remain home since she was sick",
+          "translation": "Моя сестра должна была оставаться дома, так как она была больна"
+        },
+        {
+          "id": 156,
+          "round_id": 16,
+          "text": "I rested on the couch after work",
+          "translation": "Я отдыхал на диване после работы"
+        },
+        {
+          "id": 157,
+          "round_id": 16,
+          "text": "We found the perfect site for our picnic",
+          "translation": "Мы нашли идеальное место для нашего пикника"
+        },
+        {
+          "id": 158,
+          "round_id": 16,
+          "text": "Our dog wags its tail when it’s happy",
+          "translation": "Наша собака виляет хвостом, когда она счастлива"
+        },
+        {
+          "id": 159,
+          "round_id": 16,
+          "text": "I have trouble working with my boss",
+          "translation": "У меня проблемы с работой с моим боссом"
+        },
+        {
+          "id": 160,
+          "round_id": 16,
+          "text": "The student became aware that the teacher was watching him",
+          "translation": "Ученик осознал, что учитель следит за ним"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "level_id": 1,
+      "name": "Shipping in a Calm Sea off the Coast",
+      "image": "assets/1/shipcalm.jpg",
+      "author": "ANDERSON, William",
+      "year": "1803",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 161,
+          "round_id": 17,
+          "text": "My brother needs a battery for his clock",
+          "translation": "Моему брату нужна батарея для его часов"
+        },
+        {
+          "id": 162,
+          "round_id": 17,
+          "text": "Tokyo is a very big city in Japan",
+          "translation": "Токио - очень большой город в Японии"
+        },
+        {
+          "id": 163,
+          "round_id": 17,
+          "text": "I clean our kitchen every Saturday",
+          "translation": "Я убираю нашу кухню каждую субботу"
+        },
+        {
+          "id": 164,
+          "round_id": 17,
+          "text": "France is a country in Europe",
+          "translation": "Франция - это страна в Европе"
+        },
+        {
+          "id": 165,
+          "round_id": 17,
+          "text": "This practice will help you develop your math skills",
+          "translation": "Эта практика поможет вам развить свои математические навыки"
+        },
+        {
+          "id": 166,
+          "round_id": 17,
+          "text": "Some car companies make electric cars",
+          "translation": "Некоторые автомобильные компании производят электромобили"
+        },
+        {
+          "id": 167,
+          "round_id": 17,
+          "text": "Windows are made of glass",
+          "translation": "Окна сделаны из стекла"
+        },
+        {
+          "id": 168,
+          "round_id": 17,
+          "text": "History was my favorite subject in school",
+          "translation": "История была моим любимым предметом в школе"
+        },
+        {
+          "id": 169,
+          "round_id": 17,
+          "text": "They never eat meat because they are vegetarians",
+          "translation": "Они никогда не едят мясо, потому что они вегетарианцы"
+        },
+        {
+          "id": 170,
+          "round_id": 17,
+          "text": "How many people live in China?",
+          "translation": "Сколько людей живет в Китае?"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "level_id": 1,
+      "name": "Shipping on the Thames off Deptford",
+      "image": "assets/1/shipping.jpg",
+      "author": "ANDERSON, William",
+      "year": "1825",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 171,
+          "round_id": 18,
+          "text": "Many drinks are sold in plastic bottles",
+          "translation": "Многие напитки продаются в пластиковых бутылках"
+        },
+        {
+          "id": 172,
+          "round_id": 18,
+          "text": "My problem is that I lost my dog",
+          "translation": "Моя проблема в том, что я потерял свою собаку"
+        },
+        {
+          "id": 173,
+          "round_id": 18,
+          "text": "What is the name of the street you live on?",
+          "translation": "Как называется улица, на которой вы живете?"
+        },
+        {
+          "id": 174,
+          "round_id": 18,
+          "text": "I think summer is the best season",
+          "translation": "Я считаю лето лучшим сезоном"
+        },
+        {
+          "id": 175,
+          "round_id": 18,
+          "text": "The boy wanted to be alone to think",
+          "translation": "Мальчик хотел побыть один, чтобы думать"
+        },
+        {
+          "id": 176,
+          "round_id": 18,
+          "text": "She has a nice apartment in the city",
+          "translation": "У нее хорошая квартира в городе"
+        },
+        {
+          "id": 177,
+          "round_id": 18,
+          "text": "He went to Paris to become an artist",
+          "translation": "Он отправился в Париж, чтобы стать художником"
+        },
+        {
+          "id": 178,
+          "round_id": 18,
+          "text": "John has a bad attitude. He’s always angry",
+          "translation": "У Джона плохое отношение. Он всегда зол"
+        },
+        {
+          "id": 179,
+          "round_id": 18,
+          "text": "She likes to read fashion magazines",
+          "translation": "Она любит читать журналы мод"
+        },
+        {
+          "id": 180,
+          "round_id": 18,
+          "text": "Brick is a good material for building houses",
+          "translation": "Кирпич - хороший материал для строительства домов"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "level_id": 1,
+      "name": "Italianate Coastal Landscape",
+      "image": "assets/1/landsca3.jpg",
+      "author": "ANESI, Paolo",
+      "year": "XVIII century",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 181,
+          "round_id": 19,
+          "text": "Breakfast is my favorite meal because I enjoy cereal",
+          "translation": "Завтрак - моя любимая еда, потому что я наслаждаюсь хлопьями"
+        },
+        {
+          "id": 182,
+          "round_id": 19,
+          "text": "I like my neighbor because he’s very friendly",
+          "translation": "Мне нравится мой сосед, потому что он очень дружелюбный"
+        },
+        {
+          "id": 183,
+          "round_id": 19,
+          "text": "I made a small profit from selling my old clothes",
+          "translation": "Я получил небольшую прибыль от продажи моей старой одежды"
+        },
+        {
+          "id": 184,
+          "round_id": 19,
+          "text": "The quality of his car is very good",
+          "translation": "Качество его машины очень хорошее"
+        },
+        {
+          "id": 185,
+          "round_id": 19,
+          "text": "You can take the stairs to the second floor",
+          "translation": "Вы можете подняться по лестнице на второй этаж"
+        },
+        {
+          "id": 186,
+          "round_id": 19,
+          "text": "The man was thin because he didn’t eat much",
+          "translation": "Человек был худым, потому что он мало ел"
+        },
+        {
+          "id": 187,
+          "round_id": 19,
+          "text": "He works for an accounting firm",
+          "translation": "Он работает в бухгалтерской фирме"
+        },
+        {
+          "id": 188,
+          "round_id": 19,
+          "text": "I assume you are both familiar with this plan",
+          "translation": "Я полагаю, вы оба знакомы с этим планом"
+        },
+        {
+          "id": 189,
+          "round_id": 19,
+          "text": "She has many clients who enjoy coming to her salon",
+          "translation": "У нее много клиентов, которым нравится приходить в ее салон"
+        },
+        {
+          "id": 190,
+          "round_id": 19,
+          "text": "The downtown area is filled with many tall buildings",
+          "translation": "Центр города заполнен множеством высоких зданий"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "level_id": 1,
+      "name": "Tiber Bridge in Rome",
+      "image": "assets/1/rome.jpg",
+      "author": "ANESI, Paolo",
+      "year": "XVIII century",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 191,
+          "round_id": 20,
+          "text": "The movie was very dull. I fell asleep watching it",
+          "translation": "Фильм был очень скучным. Я заснул, смотря его"
+        },
+        {
+          "id": 192,
+          "round_id": 20,
+          "text": "He was embarrassed when he couldn’t remember her name",
+          "translation": "Он был смущен, когда не мог вспомнить ее имя"
+        },
+        {
+          "id": 193,
+          "round_id": 20,
+          "text": "I got a loan from the bank",
+          "translation": "Я получил кредит в банке"
+        },
+        {
+          "id": 194,
+          "round_id": 20,
+          "text": "He paid a quarter for the candy",
+          "translation": "Он заплатил четверть за конфету"
+        },
+        {
+          "id": 195,
+          "round_id": 20,
+          "text": "He got a new job with a better salary",
+          "translation": "Он получил новую работу с лучшей зарплатой"
+        },
+        {
+          "id": 196,
+          "round_id": 20,
+          "text": "I got a scholarship to help me pay for university",
+          "translation": "Я получил стипендию, чтобы помочь мне заплатить за университет"
+        },
+        {
+          "id": 197,
+          "round_id": 20,
+          "text": "They became very rich when they found the buried treasure",
+          "translation": "Они стали очень богатыми, когда нашли клад"
+        },
+        {
+          "id": 198,
+          "round_id": 20,
+          "text": "He urged them to believe his story",
+          "translation": "Он призвал их поверить в его историю"
+        },
+        {
+          "id": 199,
+          "round_id": 20,
+          "text": "My coach gets very excited during games",
+          "translation": "Мой тренер очень взволнован во время игр"
+        },
+        {
+          "id": 200,
+          "round_id": 20,
+          "text": "To control the TV, just push the buttons",
+          "translation": "Чтобы управлять телевизором, просто нажимайте кнопки"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "level_id": 1,
+      "name": "View of the Roman Campagna",
+      "image": "assets/1/rome1.jpg",
+      "author": "ANESI, Paolo",
+      "year": "XVIII century",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 201,
+          "round_id": 21,
+          "text": "The green path is a direct route to my house",
+          "translation": "Зеленая тропа - прямой путь к моему дому"
+        },
+        {
+          "id": 202,
+          "round_id": 21,
+          "text": "Cola is an example of a soft drink",
+          "translation": "Кола - пример безалкогольного напитка"
+        },
+        {
+          "id": 203,
+          "round_id": 21,
+          "text": "The fireworks made the night sky look so magical",
+          "translation": "Фейерверк заставил ночное небо выглядеть таким волшебным"
+        },
+        {
+          "id": 204,
+          "round_id": 21,
+          "text": "He wrote a great novel about ancient China",
+          "translation": "Он написал великий роман о древнем Китае"
+        },
+        {
+          "id": 205,
+          "round_id": 21,
+          "text": "Before I wrote my essay, I made an outline",
+          "translation": "Прежде чем я написал свое эссе, я сделал набросок"
+        },
+        {
+          "id": 206,
+          "round_id": 21,
+          "text": "William Shakespeare was one of the greatest poets",
+          "translation": "Уильям Шекспир был одним из величайших поэтов"
+        },
+        {
+          "id": 207,
+          "round_id": 21,
+          "text": "Make sure that you print your name clearly",
+          "translation": "Убедитесь, что вы печатаете свое имя четко"
+        },
+        {
+          "id": 208,
+          "round_id": 21,
+          "text": "I made a silly mistake of dropping mom’s vase",
+          "translation": "Я сделал глупую ошибку, уронив мамину вазу"
+        },
+        {
+          "id": 209,
+          "round_id": 21,
+          "text": "I picked up a few things at the grocery store",
+          "translation": "Я взял несколько вещей в продуктовом магазине"
+        },
+        {
+          "id": 210,
+          "round_id": 21,
+          "text": "Her headache made her suffer all day",
+          "translation": "Ее головная боль заставляла ее страдать весь день"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "level_id": 1,
+      "name": "Harbour Scene",
+      "image": "assets/1/scene.jpg",
+      "author": "ANESI, Paolo",
+      "year": "XVIII century",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 211,
+          "round_id": 22,
+          "text": "He loves technology such as laptop computers",
+          "translation": "Он любит такие технологии, как ноутбуки"
+        },
+        {
+          "id": 212,
+          "round_id": 22,
+          "text": "He walked across the board to the other side",
+          "translation": "Он прошел через доску на другую сторону"
+        },
+        {
+          "id": 213,
+          "round_id": 22,
+          "text": "We need strong healthy lungs to help us breathe well",
+          "translation": "Нам нужны крепкие здоровые легкие, чтобы мы могли хорошо дышать"
+        },
+        {
+          "id": 214,
+          "round_id": 22,
+          "text": "One characteristic of tigers is their black stripes",
+          "translation": "Одна из характеристик тигров - их черные полосы"
+        },
+        {
+          "id": 215,
+          "round_id": 22,
+          "text": "Jack consumed a whole plate of spaghetti",
+          "translation": "Джек съел целую тарелку спагетти"
+        },
+        {
+          "id": 216,
+          "round_id": 22,
+          "text": "I was extremely worried about him",
+          "translation": "Я очень переживал за него"
+        },
+        {
+          "id": 217,
+          "round_id": 22,
+          "text": "I have a great fear of skateboarding",
+          "translation": "Я очень боюсь кататься на скейтборде"
+        },
+        {
+          "id": 218,
+          "round_id": 22,
+          "text": "I was fortunate to get a seat",
+          "translation": "Мне повезло получить место"
+        },
+        {
+          "id": 219,
+          "round_id": 22,
+          "text": "I happened to meet some new friends at school today",
+          "translation": "Я случайно встретил в школе новых друзей"
+        },
+        {
+          "id": 220,
+          "round_id": 22,
+          "text": "The length of the floor is three meters",
+          "translation": "Длина пола три метра"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "level_id": 1,
+      "name": "View of Tivoli and the Roman Campagna",
+      "image": "assets/1/tivoli.jpg",
+      "author": "ANESI, Paolo",
+      "year": "XVIII century",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 221,
+          "round_id": 23,
+          "text": "Brian observed the sun rising over the mountains",
+          "translation": "Брайан наблюдал, как солнце поднимается над горами"
+        },
+        {
+          "id": 222,
+          "round_id": 23,
+          "text": "I had an opportunity to take pictures in the jungle",
+          "translation": "У меня была возможность фотографироваться в джунглях"
+        },
+        {
+          "id": 223,
+          "round_id": 23,
+          "text": "When the teacher asked the question, we all responded",
+          "translation": "Когда учитель задал вопрос, мы все ответили"
+        },
+        {
+          "id": 224,
+          "round_id": 23,
+          "text": "I took a risk and climbed the snowy mountain",
+          "translation": "Я рискнул и поднялся на снежную гору"
+        },
+        {
+          "id": 225,
+          "round_id": 23,
+          "text": "We can’t go out yet; we’re still eating",
+          "translation": "Мы еще не можем выйти; мы все еще едим"
+        },
+        {
+          "id": 226,
+          "round_id": 23,
+          "text": "The man smiles as he reads his favorite book",
+          "translation": "Человек улыбается, читая свою любимую книгу"
+        },
+        {
+          "id": 227,
+          "round_id": 23,
+          "text": "I bought warm clothes for the cold winter",
+          "translation": "Я купил теплую одежду для холодной зимы"
+        },
+        {
+          "id": 228,
+          "round_id": 23,
+          "text": "The community got together to plant trees",
+          "translation": "Община собралась сажать деревья"
+        },
+        {
+          "id": 229,
+          "round_id": 23,
+          "text": "The last day of the year is December 31st",
+          "translation": "Последний день года - 31 декабря"
+        },
+        {
+          "id": 230,
+          "round_id": 23,
+          "text": "I had a hamburger for dinner",
+          "translation": "У меня был гамбургер на ужин"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "level_id": 1,
+      "name": "The Western Railway Leaving Paris",
+      "image": "assets/1/railway.jpg",
+      "author": "ANGRAND, Charles",
+      "year": "1886",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 231,
+          "round_id": 24,
+          "text": "The men exchange business cards",
+          "translation": "Мужчины обмениваются визитками"
+        },
+        {
+          "id": 232,
+          "round_id": 24,
+          "text": "There are four people in my family",
+          "translation": "В моей семье четыре человека"
+        },
+        {
+          "id": 233,
+          "round_id": 24,
+          "text": "Chris studies from 10 o’clock to noon every morning",
+          "translation": "Крис учится с 10 до 12 часов каждое утро"
+        },
+        {
+          "id": 234,
+          "round_id": 24,
+          "text": "I don’t like green apples",
+          "translation": "Я не люблю зеленые яблоки"
+        },
+        {
+          "id": 235,
+          "round_id": 24,
+          "text": "The family likes to stay at home on the weekends",
+          "translation": "Семья любит сидеть дома по выходным"
+        },
+        {
+          "id": 236,
+          "round_id": 24,
+          "text": "My birthday is in January",
+          "translation": "Мой день рождения в январе"
+        },
+        {
+          "id": 237,
+          "round_id": 24,
+          "text": "Jack is wearing a red shirt",
+          "translation": "Джек одет в красную рубашку"
+        },
+        {
+          "id": 238,
+          "round_id": 24,
+          "text": "I have seven colored pencils on my desk",
+          "translation": "У меня на столе семь цветных карандашей"
+        },
+        {
+          "id": 239,
+          "round_id": 24,
+          "text": "Let’s work together to finish the project",
+          "translation": "Давайте работать вместе, чтобы закончить проект"
+        },
+        {
+          "id": 240,
+          "round_id": 24,
+          "text": "My dream is to go to a good university",
+          "translation": "Моя мечта - поступить в хороший университет"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "level_id": 1,
+      "name": "Landscape with a Musician",
+      "image": "assets/1/landscap.jpg",
+      "author": "APSHOVEN, Thomas van",
+      "year": "XVII century",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 241,
+          "round_id": 25,
+          "text": "The man has to wear a suit to work",
+          "translation": "Человек должен носить костюм, чтобы работать"
+        },
+        {
+          "id": 242,
+          "round_id": 25,
+          "text": "You become one year older every birthday",
+          "translation": "Вы становитесь на год старше с каждым днем рождения"
+        },
+        {
+          "id": 243,
+          "round_id": 25,
+          "text": "I can appreciate the lovely scenery",
+          "translation": "Я могу оценить прекрасные пейзажи"
+        },
+        {
+          "id": 244,
+          "round_id": 25,
+          "text": "There were many seats available in the room",
+          "translation": "В комнате было много свободных мест"
+        },
+        {
+          "id": 245,
+          "round_id": 25,
+          "text": "I managed to beat everyone in the race",
+          "translation": "Мне удалось победить всех в гонке"
+        },
+        {
+          "id": 246,
+          "round_id": 25,
+          "text": "The bright light from the explosion hurt my eyes",
+          "translation": "Яркий свет от взрыва повредил мне глаза"
+        },
+        {
+          "id": 247,
+          "round_id": 25,
+          "text": "We all celebrated when we heard the great news",
+          "translation": "Мы все праздновали, когда услышали великие новости"
+        },
+        {
+          "id": 248,
+          "round_id": 25,
+          "text": "He tried to decide which one to eat first",
+          "translation": "Он пытался решить, какой из них съесть первым"
+        },
+        {
+          "id": 249,
+          "round_id": 25,
+          "text": "The top of the building is disappearing in the clouds",
+          "translation": "Верхняя часть здания исчезает в облаках"
+        },
+        {
+          "id": 250,
+          "round_id": 25,
+          "text": "He sold me his car for a fair price",
+          "translation": "Он продал мне свою машину по справедливой цене"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "level_id": 1,
+      "name": "Edge of a Wood",
+      "image": "assets/1/edgewood.jpg",
+      "author": "ARTHOIS, Jacques d'",
+      "year": "XVII century",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 251,
+          "round_id": 26,
+          "text": "The water flowed over the rocks and into the lake",
+          "translation": "Вода текла по скалам и в озеро"
+        },
+        {
+          "id": 252,
+          "round_id": 26,
+          "text": "The sun was rising above the green hills",
+          "translation": "Солнце поднималось над зелеными холмами"
+        },
+        {
+          "id": 253,
+          "round_id": 26,
+          "text": "Please check the level of the temperature",
+          "translation": "Пожалуйста, проверьте уровень температуры"
+        },
+        {
+          "id": 254,
+          "round_id": 26,
+          "text": "A lone man walked along the street",
+          "translation": "Одинокий человек шел по улице"
+        },
+        {
+          "id": 255,
+          "round_id": 26,
+          "text": "When the ice melted, it formed a puddle",
+          "translation": "Когда лед растаял, образовалась лужа"
+        },
+        {
+          "id": 256,
+          "round_id": 26,
+          "text": "He asked if I was sad. My response was “No.”",
+          "translation": "Он спросил, грустно ли мне. Мой ответ был 'Нет'"
+        },
+        {
+          "id": 257,
+          "round_id": 26,
+          "text": "Fall is a warm season, while winter is very cold",
+          "translation": "Осень - теплое время года, а зима очень холодная"
+        },
+        {
+          "id": 258,
+          "round_id": 26,
+          "text": "There are many problems. We need solutions!",
+          "translation": "Есть много проблем. Нам нужны решения!"
+        },
+        {
+          "id": 259,
+          "round_id": 26,
+          "text": "Turn off the water so you don’t waste it",
+          "translation": "Выключи воду, чтобы не тратить ее впустую"
+        },
+        {
+          "id": 260,
+          "round_id": 26,
+          "text": "I could not decide whether to go left or right",
+          "translation": "Я не мог решить, идти ли налево или направо"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "level_id": 1,
+      "name": "An Extensive Wooded Landscape with Travellers on a Path",
+      "image": "assets/1/extensiv_1.jpg",
+      "author": "ARTHOIS, Jacques d'",
+      "year": "XVII century",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 261,
+          "round_id": 27,
+          "text": "They always brush their teeth in the morning",
+          "translation": "Они всегда чистят зубы по утрам"
+        },
+        {
+          "id": 262,
+          "round_id": 27,
+          "text": "Please ask questions if you do not understand",
+          "translation": "Пожалуйста, задавайте вопросы, если вы не понимаете"
+        },
+        {
+          "id": 263,
+          "round_id": 27,
+          "text": "Did you eat a banana for breakfast?",
+          "translation": "Ты ел банан на завтрак?"
+        },
+        {
+          "id": 264,
+          "round_id": 27,
+          "text": "You need two pieces of bread to make a sandwich",
+          "translation": "Вам нужно два куска хлеба, чтобы сделать бутерброд"
+        },
+        {
+          "id": 265,
+          "round_id": 27,
+          "text": "What a beautiful birthday cake!",
+          "translation": "Какой красивый торт ко дню рождения!"
+        },
+        {
+          "id": 266,
+          "round_id": 27,
+          "text": "I put a carrot in my salad",
+          "translation": "Я положил морковку в свой салат"
+        },
+        {
+          "id": 267,
+          "round_id": 27,
+          "text": "Chicken is his favorite kind of meat",
+          "translation": "Курица - его любимый вид мяса"
+        },
+        {
+          "id": 268,
+          "round_id": 27,
+          "text": "I made a chocolate cake for my mom’s party",
+          "translation": "Я сделал шоколадный торт для вечеринки моей мамы"
+        },
+        {
+          "id": 269,
+          "round_id": 27,
+          "text": "I have to find something to contain these apples",
+          "translation": "Я должен найти что-то, чтобы содержать эти яблоки"
+        },
+        {
+          "id": 270,
+          "round_id": 27,
+          "text": "I loved the delicious fried chicken I ate for dinner!",
+          "translation": "Мне очень понравилась вкусная жареная курица, которую я ел на ужин!"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "level_id": 1,
+      "name": "Wooded Landscape",
+      "image": "assets/1/landscap_1.jpg",
+      "author": "ARTHOIS, Jacques d'",
+      "year": "XVII century",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 271,
+          "round_id": 28,
+          "text": "His diet mostly consists of fruits and vegetables",
+          "translation": "Его диета состоит в основном из фруктов и овощей"
+        },
+        {
+          "id": 272,
+          "round_id": 28,
+          "text": "You should eat breakfast every day",
+          "translation": "Ты должен завтракать каждый день"
+        },
+        {
+          "id": 273,
+          "round_id": 28,
+          "text": "Pasta is a famous food in Italy",
+          "translation": "Макароны - известная еда в Италии"
+        },
+        {
+          "id": 274,
+          "round_id": 28,
+          "text": "Apples, pears, and oranges are types of fruit",
+          "translation": "Яблоки, груши и апельсины - это виды фруктов"
+        },
+        {
+          "id": 275,
+          "round_id": 28,
+          "text": "It was a great, exciting game!",
+          "translation": "Это была отличная, захватывающая игра!"
+        },
+        {
+          "id": 276,
+          "round_id": 28,
+          "text": "People who want good health should not smoke",
+          "translation": "Люди, которые хотят хорошего здоровья, не должны курить"
+        },
+        {
+          "id": 277,
+          "round_id": 28,
+          "text": "Do you use a recipe when you make that sauce?",
+          "translation": "Ты используешь рецепт, когда готовишь этот соус?"
+        },
+        {
+          "id": 278,
+          "round_id": 28,
+          "text": "Let’s eat at the Indian restaurant",
+          "translation": "Давайте есть в индийском ресторане"
+        },
+        {
+          "id": 279,
+          "round_id": 28,
+          "text": "The cupcake was special because it had blue frosting",
+          "translation": "Кекс был особенным, потому что у него была голубая глазурь"
+        },
+        {
+          "id": 280,
+          "round_id": 28,
+          "text": "Drink eight cups of water every day",
+          "translation": "Пейте восемь чашек воды каждый день"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "level_id": 1,
+      "name": "Wooded Landscape",
+      "image": "assets/1/woodedla.jpg",
+      "author": "ARTHOIS, Jacques d'",
+      "year": "XVII century",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 281,
+          "round_id": 29,
+          "text": "I brought home a nice bone for my dog",
+          "translation": "Я принес домой хорошую собаку для моей собаки"
+        },
+        {
+          "id": 282,
+          "round_id": 29,
+          "text": "No one bothered to wash the dishes today",
+          "translation": "Никто не удосужился мыть посуду сегодня"
+        },
+        {
+          "id": 283,
+          "round_id": 29,
+          "text": "The captain sailed his ship to Australia",
+          "translation": "Капитан отплыл на своем корабле в Австралию"
+        },
+        {
+          "id": 284,
+          "round_id": 29,
+          "text": "I have doubt that the story is true",
+          "translation": "Я сомневаюсь, что история правдива"
+        },
+        {
+          "id": 285,
+          "round_id": 29,
+          "text": "He wants to explore the world and see new things",
+          "translation": "Он хочет исследовать мир и видеть новые вещи"
+        },
+        {
+          "id": 286,
+          "round_id": 29,
+          "text": "I am glad you came to my party",
+          "translation": "Я рад, что ты пришел на мою вечеринку"
+        },
+        {
+          "id": 287,
+          "round_id": 29,
+          "text": "The United Nations is a powerful international organization",
+          "translation": "Организация Объединенных Наций является мощной международной организацией"
+        },
+        {
+          "id": 288,
+          "round_id": 29,
+          "text": "The doctors mentioned the problems that the patient was having",
+          "translation": "Врачи упомянули о проблемах, с которыми сталкивался пациент"
+        },
+        {
+          "id": 289,
+          "round_id": 29,
+          "text": "My mother is seventy years old now",
+          "translation": "Моей маме сейчас семьдесят лет"
+        },
+        {
+          "id": 290,
+          "round_id": 29,
+          "text": "People should come together and fix the world’s social problems",
+          "translation": "Люди должны собраться вместе и решить социальные проблемы мира"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "level_id": 1,
+      "name": "The Delft City Wall with the Houttuinen",
+      "image": "assets/1/citywall.jpg",
+      "author": "ASCH, Pieter Jansz.van",
+      "year": "1650",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 291,
+          "round_id": 30,
+          "text": "She gave a speech to the class",
+          "translation": "Она выступила с речью перед классом"
+        },
+        {
+          "id": 292,
+          "round_id": 30,
+          "text": "Santa walked toward my house with a bag of gifts",
+          "translation": "Санта шел к моему дому с мешком подарков"
+        },
+        {
+          "id": 293,
+          "round_id": 30,
+          "text": "I put the pieces of wood in a pile",
+          "translation": "Я положил кусочки дерева в кучу"
+        },
+        {
+          "id": 294,
+          "round_id": 30,
+          "text": "I was happy that I could achieve my goal",
+          "translation": "Я был счастлив, что смог достичь своей цели"
+        },
+        {
+          "id": 295,
+          "round_id": 30,
+          "text": "My mother often advises people about their money",
+          "translation": "Моя мама часто советует людям об их деньгах"
+        },
+        {
+          "id": 296,
+          "round_id": 30,
+          "text": "I learned some basic English skills in school today",
+          "translation": "Я выучил некоторые базовые навыки английского в школе сегодня"
+        },
+        {
+          "id": 297,
+          "round_id": 30,
+          "text": "The glass was destroyed",
+          "translation": "Стекло было разрушено"
+        },
+        {
+          "id": 298,
+          "round_id": 30,
+          "text": "The clown entertained the kids at the party",
+          "translation": "Клоун развлекал детей на вечеринке"
+        },
+        {
+          "id": 299,
+          "round_id": 30,
+          "text": "The squirrel had extra nuts for the winter",
+          "translation": "У белки были дополнительные орехи на зиму"
+        },
+        {
+          "id": 300,
+          "round_id": 30,
+          "text": "Her goal was to become a doctor",
+          "translation": "Ее целью было стать врачом"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "level_id": 1,
+      "name": "River Landscape",
+      "image": "assets/1/river_la.jpg",
+      "author": "ASCH, Pieter Jansz. van",
+      "year": "1640",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 301,
+          "round_id": 31,
+          "text": "Whenever Pinocchio lied to his father, his nose grew",
+          "translation": "Всякий раз, когда Пиноккио лгал своему отцу, его нос рос"
+        },
+        {
+          "id": 302,
+          "round_id": 31,
+          "text": "This piece of meat I’m eating tastes very good",
+          "translation": "Этот кусок мяса, который я ем, имеет очень хороший вкус"
+        },
+        {
+          "id": 303,
+          "round_id": 31,
+          "text": "Her face was reflected in the smooth glass",
+          "translation": "Ее лицо отражалось в гладком стекле"
+        },
+        {
+          "id": 304,
+          "round_id": 31,
+          "text": "The boy regarded the girl as a good friend",
+          "translation": "Мальчик считал девушку хорошим другом"
+        },
+        {
+          "id": 305,
+          "round_id": 31,
+          "text": "He served us our drinks quickly",
+          "translation": "Он подал нам наши напитки быстро"
+        },
+        {
+          "id": 306,
+          "round_id": 31,
+          "text": "Carrots are my favorite vegetable",
+          "translation": "Морковь - мой любимый овощ"
+        },
+        {
+          "id": 307,
+          "round_id": 31,
+          "text": "Many young men died in the war",
+          "translation": "Многие молодые люди погибли на войне"
+        },
+        {
+          "id": 308,
+          "round_id": 31,
+          "text": "Our house is worth a lot of money",
+          "translation": "Наш дом стоит много денег"
+        },
+        {
+          "id": 309,
+          "round_id": 31,
+          "text": "She appeared to be sad. She was crying",
+          "translation": "Она казалась грустной. Она плакала"
+        },
+        {
+          "id": 310,
+          "round_id": 31,
+          "text": "The base of the table has three legs",
+          "translation": "У основания стола три ножки"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "level_id": 1,
+      "name": "View of Killarney",
+      "image": "assets/1/kilarney.jpg",
+      "author": "ASHFORD, William",
+      "year": "1778",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 311,
+          "round_id": 32,
+          "text": "You must use your brain to solve the problem",
+          "translation": "Вы должны использовать свой мозг, чтобы решить проблему"
+        },
+        {
+          "id": 312,
+          "round_id": 32,
+          "text": "The clerk added up her bill for the groceries",
+          "translation": "Клерк сложил свой счет за продукты"
+        },
+        {
+          "id": 313,
+          "round_id": 32,
+          "text": "He always puts a lot of effort into his studies",
+          "translation": "Он всегда прикладывает много усилий к учебе"
+        },
+        {
+          "id": 314,
+          "round_id": 32,
+          "text": "Two guards greeted me as I entered the front door",
+          "translation": "Два охранника встретили меня, когда я вошел в переднюю дверь"
+        },
+        {
+          "id": 315,
+          "round_id": 32,
+          "text": "I got an excellent score on my school test",
+          "translation": "Я получил отличную оценку на школьном тесте"
+        },
+        {
+          "id": 316,
+          "round_id": 32,
+          "text": "I hurried home on my bike",
+          "translation": "Я поспешил домой на своем велосипеде"
+        },
+        {
+          "id": 317,
+          "round_id": 32,
+          "text": "I called and informed her about my idea",
+          "translation": "Я позвонил и сообщил ей о своей идее"
+        },
+        {
+          "id": 318,
+          "round_id": 32,
+          "text": "I could not locate my keys in the house",
+          "translation": "Я не мог найти свои ключи в доме"
+        },
+        {
+          "id": 319,
+          "round_id": 32,
+          "text": "A nurse helped me get better",
+          "translation": "Медсестра помогла мне поправиться"
+        },
+        {
+          "id": 320,
+          "round_id": 32,
+          "text": "The operation on my arm was a success",
+          "translation": "Операция на моей руке прошла успешно"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "level_id": 1,
+      "name": "Landscape with Waterfall and Farm",
+      "image": "assets/1/waterfal.jpg",
+      "author": "ASSCHE, Henri van",
+      "year": "1806",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 321,
+          "round_id": 33,
+          "text": "His head was full of pain",
+          "translation": "Его голова была полна боли"
+        },
+        {
+          "id": 322,
+          "round_id": 33,
+          "text": "The dog refused to play with the cat",
+          "translation": "Собака отказалась играть с кошкой"
+        },
+        {
+          "id": 323,
+          "round_id": 33,
+          "text": "Though he was overweight, he liked to be active",
+          "translation": "Хотя он весил больше нормы, ему нравилось быть активным"
+        },
+        {
+          "id": 324,
+          "round_id": 33,
+          "text": "She owned shoes of various styles",
+          "translation": "Она владела обувью разных стилей"
+        },
+        {
+          "id": 325,
+          "round_id": 33,
+          "text": "The news in the paper amazed Jack",
+          "translation": "Новости в газете поразили Джека"
+        },
+        {
+          "id": 326,
+          "round_id": 33,
+          "text": "The charge for the shirts was $15",
+          "translation": "Плата за футболки составила 15 долларов"
+        },
+        {
+          "id": 327,
+          "round_id": 33,
+          "text": "I contacted Sue about my party",
+          "translation": "Я связался с Сью по поводу моей вечеринки"
+        },
+        {
+          "id": 328,
+          "round_id": 33,
+          "text": "The customer put a few items in a bag",
+          "translation": "Клиент положил несколько вещей в сумку"
+        },
+        {
+          "id": 329,
+          "round_id": 33,
+          "text": "The man delivered Chinese food to my house",
+          "translation": "Мужчина доставил китайскую еду в мой дом"
+        },
+        {
+          "id": 330,
+          "round_id": 33,
+          "text": "Does this meal include a soft drink?",
+          "translation": "Включает ли это блюдо безалкогольный напиток?"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "level_id": 1,
+      "name": "Winter Landscape",
+      "image": "assets/1/winterla_1.jpg",
+      "author": "ASSCHE, Henri van",
+      "year": "1814",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 331,
+          "round_id": 34,
+          "text": "I had to manage the meeting myself",
+          "translation": "Я должен был сам управлять встречей"
+        },
+        {
+          "id": 332,
+          "round_id": 34,
+          "text": "When did the thunderstorm occur?",
+          "translation": "Когда произошла гроза?"
+        },
+        {
+          "id": 333,
+          "round_id": 34,
+          "text": "The opposite of black is white",
+          "translation": "Противоположность черного есть белое"
+        },
+        {
+          "id": 334,
+          "round_id": 34,
+          "text": "I received a present on my birthday",
+          "translation": "Я получил подарок на мой день рождения"
+        },
+        {
+          "id": 335,
+          "round_id": 34,
+          "text": "He was given a reward for his excellent performance",
+          "translation": "Он получил награду за отличную работу"
+        },
+        {
+          "id": 336,
+          "round_id": 34,
+          "text": "Please set the dice down on the table",
+          "translation": "Пожалуйста, поставьте кости на стол"
+        },
+        {
+          "id": 337,
+          "round_id": 34,
+          "text": "The men tried to steal money from the bank",
+          "translation": "Мужчины пытались украсть деньги из банка"
+        },
+        {
+          "id": 338,
+          "round_id": 34,
+          "text": "He advanced across the bridge slowly",
+          "translation": "Он медленно продвигался через мост"
+        },
+        {
+          "id": 339,
+          "round_id": 34,
+          "text": "Some athletes can play many sports very well",
+          "translation": "Некоторые спортсмены могут очень хорошо заниматься многими видами спорта"
+        },
+        {
+          "id": 340,
+          "round_id": 34,
+          "text": "I’m not rich or poor; I’m average",
+          "translation": "Я не богат или не беден; я средний"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "level_id": 1,
+      "name": "Coastal Scene with Resting Riders",
+      "image": "assets/1/coastal.jpg",
+      "author": "ASSELYN, Jan",
+      "year": "1652",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 341,
+          "round_id": 35,
+          "text": "Their behavior was good this semester. They didn’t cause trouble",
+          "translation": "Их поведение было хорошим в этом семестре. Они не доставляли хлопот"
+        },
+        {
+          "id": 342,
+          "round_id": 35,
+          "text": "The little girl was hiding behind a tree",
+          "translation": "Маленькая девочка пряталась за деревом"
+        },
+        {
+          "id": 343,
+          "round_id": 35,
+          "text": "I took a P.E. course in school this year",
+          "translation": "В этом году я прошел курс обучения в школе"
+        },
+        {
+          "id": 344,
+          "round_id": 35,
+          "text": "The two shoes matched. They looked the same",
+          "translation": "Две туфли совпали. Они выглядели одинаково"
+        },
+        {
+          "id": 345,
+          "round_id": 35,
+          "text": "Julie is the newest member of our team",
+          "translation": "Джули - самый новый член нашей команды"
+        },
+        {
+          "id": 346,
+          "round_id": 35,
+          "text": "I made a mental picture of the room",
+          "translation": "Я сделал мысленную картину комнаты"
+        },
+        {
+          "id": 347,
+          "round_id": 35,
+          "text": "One passenger was standing near the subway train",
+          "translation": "Один пассажир стоял возле поезда метро"
+        },
+        {
+          "id": 348,
+          "round_id": 35,
+          "text": "John has a bad personality",
+          "translation": "У Джона плохая личность"
+        },
+        {
+          "id": 349,
+          "round_id": 35,
+          "text": "William Shakespeare wrote many poems",
+          "translation": "Уильям Шекспир написал много стихов"
+        },
+        {
+          "id": 350,
+          "round_id": 35,
+          "text": "The flag was hanging from the flag pole",
+          "translation": "Флаг висел на флагштоке"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "level_id": 1,
+      "name": "Italianate Landscape with a River and an Arched Bridge",
+      "image": "assets/1/italiana.jpg",
+      "author": "ASSELYN, Jan",
+      "year": "1648",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 351,
+          "round_id": 36,
+          "text": "I removed the nail from the board",
+          "translation": "Я снял гвоздь с доски"
+        },
+        {
+          "id": 352,
+          "round_id": 36,
+          "text": "The hunter raised his gun to shoot at the target",
+          "translation": "Охотник поднял ружье, чтобы выстрелить в цель"
+        },
+        {
+          "id": 353,
+          "round_id": 36,
+          "text": "The alarm clock sounded and woke us all up",
+          "translation": "Прозвучал будильник и разбудил нас всех"
+        },
+        {
+          "id": 354,
+          "round_id": 36,
+          "text": "I love to swim in the ocean",
+          "translation": "Я люблю плавать в океане"
+        },
+        {
+          "id": 355,
+          "round_id": 36,
+          "text": "Mom cleaned the spider webs out of the garage",
+          "translation": "Мама убрала паутину из гаража"
+        },
+        {
+          "id": 356,
+          "round_id": 36,
+          "text": "I saw a block of ice on the floor",
+          "translation": "Я видел кусок льда на полу"
+        },
+        {
+          "id": 357,
+          "round_id": 36,
+          "text": "My father was buried in his hometown when he died",
+          "translation": "Мой отец был похоронен в своем родном городе, когда он умер"
+        },
+        {
+          "id": 358,
+          "round_id": 36,
+          "text": "The crowd all cheered when the home team won",
+          "translation": "Толпа всех приветствовала, когда победила хозяева"
+        },
+        {
+          "id": 359,
+          "round_id": 36,
+          "text": "Finishing high school was a major event in his life",
+          "translation": "Окончание средней школы было главным событием в его жизни"
+        },
+        {
+          "id": 360,
+          "round_id": 36,
+          "text": "You should exercise every day",
+          "translation": "Ты должен заниматься каждый день"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "level_id": 1,
+      "name": "Italianate Landscape with Peasants and Animals Fording a River",
+      "image": "assets/1/italianb.jpg",
+      "author": "ASSELYN, Jan",
+      "year": "1640-45",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 361,
+          "round_id": 37,
+          "text": "We followed a guide at the park",
+          "translation": "Мы следовали за гидом в парке"
+        },
+        {
+          "id": 362,
+          "round_id": 37,
+          "text": "His only problem is a lack of money",
+          "translation": "Его единственная проблема - нехватка денег"
+        },
+        {
+          "id": 363,
+          "round_id": 37,
+          "text": "He will perform a song for the class",
+          "translation": "Он исполнит песню для класса"
+        },
+        {
+          "id": 364,
+          "round_id": 37,
+          "text": "They put pressure on him to change his mind",
+          "translation": "Они заставляют его передумать"
+        },
+        {
+          "id": 365,
+          "round_id": 37,
+          "text": "Mary is a smart student",
+          "translation": "Мария умная ученица"
+        },
+        {
+          "id": 366,
+          "round_id": 37,
+          "text": "She struck the other girl in the face",
+          "translation": "Она ударила другую девушку по лицу"
+        },
+        {
+          "id": 367,
+          "round_id": 37,
+          "text": "Everyone at work supports the new plan",
+          "translation": "Все на работе поддерживают новый план"
+        },
+        {
+          "id": 368,
+          "round_id": 37,
+          "text": "If we unite, we can finish our project faster",
+          "translation": "Если мы объединимся, мы сможем завершить наш проект быстрее"
+        },
+        {
+          "id": 369,
+          "round_id": 37,
+          "text": "Most people associate birthday parties with having fun",
+          "translation": "У большинства людей дни рождения ассоциируются с весельем"
+        },
+        {
+          "id": 370,
+          "round_id": 37,
+          "text": "Keeping our environment clean is important to our health",
+          "translation": "Поддержание нашей окружающей среды в чистоте важно для нашего здоровья"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "level_id": 1,
+      "name": "Landscape with Frozen River",
+      "image": "assets/1/landscap_2.jpg",
+      "author": "AVERCAMP, Barend",
+      "year": "1655",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 371,
+          "round_id": 38,
+          "text": "We have only one factory in our town",
+          "translation": "У нас только один завод в нашем городе"
+        },
+        {
+          "id": 372,
+          "round_id": 38,
+          "text": "The cell phone has many features",
+          "translation": "У мобильного телефона много функций"
+        },
+        {
+          "id": 373,
+          "round_id": 38,
+          "text": "I have never experienced an instance of hate. Have you?",
+          "translation": "Я никогда не испытывал ненависти. А ты?"
+        },
+        {
+          "id": 374,
+          "round_id": 38,
+          "text": "The whole family was involved in playing the game",
+          "translation": "Вся семья была вовлечена в игру"
+        },
+        {
+          "id": 375,
+          "round_id": 38,
+          "text": "The doctor gave me medicine for my cold",
+          "translation": "Доктор дал мне лекарство от простуды"
+        },
+        {
+          "id": 376,
+          "round_id": 38,
+          "text": "In one period in Europe, there were many knights",
+          "translation": "За один период в Европе было много рыцарей"
+        },
+        {
+          "id": 377,
+          "round_id": 38,
+          "text": "Billions of people populate the Earth",
+          "translation": "Миллиарды людей населяют Землю"
+        },
+        {
+          "id": 378,
+          "round_id": 38,
+          "text": "This tree produces apples every year",
+          "translation": "Это дерево производит яблоки каждый год"
+        },
+        {
+          "id": 379,
+          "round_id": 38,
+          "text": "I saw a range of cars to choose from",
+          "translation": "Я видел целый ряд автомобилей на выбор"
+        },
+        {
+          "id": 380,
+          "round_id": 38,
+          "text": "I recognized an old friend from many years ago",
+          "translation": "Я узнал старого друга много лет назад"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "level_id": 1,
+      "name": "Ice Landscape",
+      "image": "assets/1/ice_land.jpg",
+      "author": "AVERCAMP, Hendrick",
+      "year": "XVII century",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 381,
+          "round_id": 39,
+          "text": "Our regular lunch time is around noon",
+          "translation": "Мы регулярно обедаем около полудня"
+        },
+        {
+          "id": 382,
+          "round_id": 39,
+          "text": "The sign indicated that today would be a bad day",
+          "translation": "Знак указывает, что сегодня будет плохой день"
+        },
+        {
+          "id": 383,
+          "round_id": 39,
+          "text": "The tip of his pen was very sharp",
+          "translation": "Кончик его ручки был очень острым"
+        },
+        {
+          "id": 384,
+          "round_id": 39,
+          "text": "Marriage is a tradition all over the world",
+          "translation": "Брак - это традиция во всем мире"
+        },
+        {
+          "id": 385,
+          "round_id": 39,
+          "text": "Please take out the trash; it smells bad",
+          "translation": "Пожалуйста, выньте мусор; он плохо пахнет"
+        },
+        {
+          "id": 386,
+          "round_id": 39,
+          "text": "The door was as wide as my arms",
+          "translation": "Дверь была такая же широкая, как мои руки"
+        },
+        {
+          "id": 387,
+          "round_id": 39,
+          "text": "His work got the attention of two of his co-workers",
+          "translation": "Его работа привлекла внимание двух его сотрудников"
+        },
+        {
+          "id": 388,
+          "round_id": 39,
+          "text": "The magnet attracted the metal",
+          "translation": "Магнит притягивал металл"
+        },
+        {
+          "id": 389,
+          "round_id": 39,
+          "text": "The girls climbed to the top of the mountain",
+          "translation": "Девчонки забрались на вершину горы"
+        },
+        {
+          "id": 390,
+          "round_id": 39,
+          "text": "A small amount of water dropped from the bottle",
+          "translation": "из бутылки выпало небольшое количество воды"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "level_id": 1,
+      "name": "Arabs on Horseback",
+      "image": "assets/1/arabs.jpg",
+      "author": "AZEGLIO, Massimo Taparelli, Marquis d'",
+      "year": "1840",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 391,
+          "round_id": 40,
+          "text": "The escalator is further than I thought",
+          "translation": "Эскалатор дальше, чем я думал"
+        },
+        {
+          "id": 392,
+          "round_id": 40,
+          "text": "The balls maintain constant movement",
+          "translation": "Шарики поддерживают постоянное движение"
+        },
+        {
+          "id": 393,
+          "round_id": 40,
+          "text": "It’s good to stay active; otherwise, you’ll gain weight",
+          "translation": "Хорошо быть активным, иначе ты наберешь вес"
+        },
+        {
+          "id": 394,
+          "round_id": 40,
+          "text": "Biking is good for your physical health",
+          "translation": "Езда на велосипеде полезна для вашего физического здоровья"
+        },
+        {
+          "id": 395,
+          "round_id": 40,
+          "text": "My teacher proved the answer on the board",
+          "translation": "Мой учитель доказал ответ на доске"
+        },
+        {
+          "id": 396,
+          "round_id": 40,
+          "text": "James reacted badly to the news",
+          "translation": "Джеймс плохо отреагировал на новости"
+        },
+        {
+          "id": 397,
+          "round_id": 40,
+          "text": "The whiteboard is situated between the two men",
+          "translation": "Доска расположена между двумя мужчинами"
+        },
+        {
+          "id": 398,
+          "round_id": 40,
+          "text": "Society expects people to be good and honest",
+          "translation": "Общество ожидает, что люди будут хорошими и честными"
+        },
+        {
+          "id": 399,
+          "round_id": 40,
+          "text": "This older model TV is below our store’s standards",
+          "translation": "Эта старая модель телевизора не соответствует стандартам нашего магазина"
+        },
+        {
+          "id": 400,
+          "round_id": 40,
+          "text": "He suggested that we go to see his boss",
+          "translation": "Он предложил пойти к его боссу"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "level_id": 1,
+      "name": "Ships in Distress off a Rocky Coast",
+      "image": "assets/1/distress.jpg",
+      "author": "BACKHUYSEN, Ludolf",
+      "year": "1667",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 401,
+          "round_id": 41,
+          "text": "The boy took a big bite of his hamburger",
+          "translation": "Мальчик откусил гамбургер"
+        },
+        {
+          "id": 402,
+          "round_id": 41,
+          "text": "I stayed on the southern coast of Australia",
+          "translation": "Я остался на южном побережье Австралии"
+        },
+        {
+          "id": 403,
+          "round_id": 41,
+          "text": "Not many plants grow in the desert",
+          "translation": "В пустыне мало растений"
+        },
+        {
+          "id": 404,
+          "round_id": 41,
+          "text": "Swimming is an effective way to stay healthy",
+          "translation": "Плавание - эффективный способ оставаться здоровым"
+        },
+        {
+          "id": 405,
+          "round_id": 41,
+          "text": "The doctor examined my eyes today",
+          "translation": "Доктор осмотрел мои глаза сегодня"
+        },
+        {
+          "id": 406,
+          "round_id": 41,
+          "text": "I couldn’t figure out what he wanted me to do",
+          "translation": "Я не мог понять, что он от меня хотел"
+        },
+        {
+          "id": 407,
+          "round_id": 41,
+          "text": "Dave received many gifts for Christmas",
+          "translation": "Дейв получил много подарков на Рождество"
+        },
+        {
+          "id": 408,
+          "round_id": 41,
+          "text": "After playing all day long, he was filled with hunger",
+          "translation": "После целого дня игры он был полон голода"
+        },
+        {
+          "id": 409,
+          "round_id": 41,
+          "text": "Sally imagined herself winning lots of money",
+          "translation": "Салли представила, что выигрывает много денег"
+        },
+        {
+          "id": 410,
+          "round_id": 41,
+          "text": "The question was a puzzle to him",
+          "translation": "Вопрос был для него загадкой"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "level_id": 1,
+      "name": "A Fishing Pink",
+      "image": "assets/1/fishing.jpg",
+      "author": "BACKHUYSEN, Ludolf",
+      "year": "1680",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 411,
+          "round_id": 42,
+          "text": "I think typing on a keyboard is quite easy",
+          "translation": "Я думаю, что набирать текст на клавиатуре довольно просто"
+        },
+        {
+          "id": 412,
+          "round_id": 42,
+          "text": "Please choose a specific place on the map",
+          "translation": "Пожалуйста, выберите конкретное место на карте"
+        },
+        {
+          "id": 413,
+          "round_id": 42,
+          "text": "I took a tour of Asia and Europe",
+          "translation": "Я взял тур по Азии и Европе"
+        },
+        {
+          "id": 414,
+          "round_id": 42,
+          "text": "Ken took a trip to the city yesterday",
+          "translation": "Кен отправился в город вчера"
+        },
+        {
+          "id": 415,
+          "round_id": 42,
+          "text": "My brother is in a rock band",
+          "translation": "Мой брат в рок-группе"
+        },
+        {
+          "id": 416,
+          "round_id": 42,
+          "text": "I think the Internet is boring",
+          "translation": "Я думаю, что Интернет скучен"
+        },
+        {
+          "id": 417,
+          "round_id": 42,
+          "text": "The long driveway led us to their new house",
+          "translation": "Долгий путь привел нас к их новому дому"
+        },
+        {
+          "id": 418,
+          "round_id": 42,
+          "text": "The boy cleaned up the garbage around his house",
+          "translation": "Мальчик убрал мусор вокруг своего дома"
+        },
+        {
+          "id": 419,
+          "round_id": 42,
+          "text": "My favorite musical instrument is the piano",
+          "translation": "Мой любимый музыкальный инструмент - пианино"
+        },
+        {
+          "id": 420,
+          "round_id": 42,
+          "text": "My mom makes a list of groceries to buy",
+          "translation": "Моя мама составляет список покупок"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "level_id": 1,
+      "name": "Shipping by the Dutch Coast",
+      "image": "assets/1/shipping_1.jpg",
+      "author": "BACKHUYSEN, Ludolf",
+      "year": "XVII century",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 421,
+          "round_id": 43,
+          "text": "I left a message for you in the envelope",
+          "translation": "Я оставил тебе сообщение в конверте"
+        },
+        {
+          "id": 422,
+          "round_id": 43,
+          "text": "Did you notice the view?",
+          "translation": "Вы заметили вид?"
+        },
+        {
+          "id": 423,
+          "round_id": 43,
+          "text": "My grandfather owns that house",
+          "translation": "Мой дедушка владеет этим домом"
+        },
+        {
+          "id": 424,
+          "round_id": 43,
+          "text": "She predicted that I would get married next year",
+          "translation": "Она предсказала, что я выйду замуж в следующем году"
+        },
+        {
+          "id": 425,
+          "round_id": 43,
+          "text": "Mike’s science professor knows a lot about physics",
+          "translation": "Профессор Майка много знает о физике"
+        },
+        {
+          "id": 426,
+          "round_id": 43,
+          "text": "Nancy rushed to finish her homework",
+          "translation": "Нэнси поспешила закончить домашнее задание"
+        },
+        {
+          "id": 427,
+          "round_id": 43,
+          "text": "What is your class schedule for today?",
+          "translation": "Какое у тебя расписание занятий на сегодня?"
+        },
+        {
+          "id": 428,
+          "round_id": 43,
+          "text": "Jimmy shared his apple with me",
+          "translation": "Джимми поделился со мной своим яблоком"
+        },
+        {
+          "id": 429,
+          "round_id": 43,
+          "text": "A large screen was on the stage",
+          "translation": "Большой экран был на сцене"
+        },
+        {
+          "id": 430,
+          "round_id": 43,
+          "text": "Did that storm wake you up last night?",
+          "translation": "Этот шторм разбудил тебя прошлой ночью?"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "level_id": 1,
+      "name": "View from the Nieuwe Maas River towards the City of Vlaardingen",
+      "image": "assets/1/viewvlaa.jpg",
+      "author": "BACKHUYSEN, Ludolf",
+      "year": "1680s",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 431,
+          "round_id": 44,
+          "text": "Within the box, there was a pizza",
+          "translation": "Внутри коробки была пицца"
+        },
+        {
+          "id": 432,
+          "round_id": 44,
+          "text": "We both compromised about the game we decided to play",
+          "translation": "Мы оба пошли на компромисс по поводу игры, в которую решили играть"
+        },
+        {
+          "id": 433,
+          "round_id": 44,
+          "text": "I like sky-diving from an airplane",
+          "translation": "Мне нравится скайдайвинг с самолета"
+        },
+        {
+          "id": 434,
+          "round_id": 44,
+          "text": "The fragile glassware was carefully packed into boxes",
+          "translation": "Хрупкая стеклянная посуда была тщательно упакована в коробки"
+        },
+        {
+          "id": 435,
+          "round_id": 44,
+          "text": "The machine can divide the book in half",
+          "translation": "Машина может разделить книгу пополам"
+        },
+        {
+          "id": 436,
+          "round_id": 44,
+          "text": "Everyone who met her found her innocence to be charming",
+          "translation": "Все, кто встречал ее, находили ее невинность очаровательной"
+        },
+        {
+          "id": 437,
+          "round_id": 44,
+          "text": "I will lead you to the right place",
+          "translation": "Я приведу вас в нужное место"
+        },
+        {
+          "id": 438,
+          "round_id": 44,
+          "text": "The amount of homework her teacher assigned has overwhelmed her",
+          "translation": "Количество домашних заданий, которые назначил ее учитель, ошеломило ее"
+        },
+        {
+          "id": 439,
+          "round_id": 44,
+          "text": "Speeding is the cause of most car accidents",
+          "translation": "Ускорение является причиной большинства автомобильных аварий"
+        },
+        {
+          "id": 440,
+          "round_id": 44,
+          "text": "It was just the usual people who came",
+          "translation": "Это были просто обычные люди, которые пришли"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "level_id": 1,
+      "name": "Dutch Vessels off a Coastline on a Breezy Day",
+      "image": "assets/1/vessels1.jpg",
+      "author": "BACKHUYSEN, Ludolf",
+      "year": "1680",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 441,
+          "round_id": 45,
+          "text": "He straightened the sign that was above the crowd",
+          "translation": "Он поправил знак, который был над толпой"
+        },
+        {
+          "id": 442,
+          "round_id": 45,
+          "text": "The blue car drove on ahead of us",
+          "translation": "Синяя машина ехала впереди нас"
+        },
+        {
+          "id": 443,
+          "round_id": 45,
+          "text": "It is common for snow to fall in the winter",
+          "translation": "Зимой выпадает снег"
+        },
+        {
+          "id": 444,
+          "round_id": 45,
+          "text": "These designer shoes cost more than the regular ones",
+          "translation": "Эти дизайнерские туфли стоят дороже обычных"
+        },
+        {
+          "id": 445,
+          "round_id": 45,
+          "text": "She demonstrated her plan to her co-workers",
+          "translation": "Она продемонстрировала свой план своим сотрудникам"
+        },
+        {
+          "id": 446,
+          "round_id": 45,
+          "text": "Each of my sisters has a different hair style",
+          "translation": "У каждой из моих сестер разные прически"
+        },
+        {
+          "id": 447,
+          "round_id": 45,
+          "text": "He used the pictures as evidence that UFOs are real",
+          "translation": "Он использовал фотографии в качестве доказательства того, что НЛО реальны"
+        },
+        {
+          "id": 448,
+          "round_id": 45,
+          "text": "A courtroom should be a place of honesty",
+          "translation": "Зал суда должен быть местом честности"
+        },
+        {
+          "id": 449,
+          "round_id": 45,
+          "text": "She chose to live an independent life in the country",
+          "translation": "Она решила жить независимой жизнью в стране"
+        },
+        {
+          "id": 450,
+          "round_id": 45,
+          "text": "The inside of the box was empty",
+          "translation": "Внутри коробки было пусто"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+cd rss-puzzle
+
+npm run lint
+
+branch_name="$(git rev-parse --abbrev-ref HEAD)"
+
+branch_regex='^((rss-puzzle)|(feat|fix|refactor)\/RSS-PZ-[0-9]{2,}(-[0-9]{2,})?_[a-zA-Z0-9]+)$'
+
+message="Branch name doesn't match naming convention. Example: 'feat/RSS-PZ-01_implementLoginForm'. Regex for the name: $branch_regex. Push is rejected. Rename your branch and try again."
+
+if [[ ! $branch_name =~ $branch_regex ]]; then
+    echo "$message"
+    exit 1
+fi
+
+exit 0

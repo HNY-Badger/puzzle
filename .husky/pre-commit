@@ -1,0 +1,5 @@
+cd rss-puzzle
+
+npm run ci:format
+
+exit 0
