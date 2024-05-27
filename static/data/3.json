@@ -1,0 +1,2846 @@
+{
+  "id": 3,
+  "name": "Уровень 3",
+  "rounds": [
+    {
+      "id": 87,
+      "level_id": 3,
+      "name": "Return from the Falcon Hunt",
+      "image": "assets/3/3_01.jpg",
+      "author": "BERCHEM, Nicolaes",
+      "year": "1650",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 861,
+          "round_id": 87,
+          "text": "They lived on a 150-acre farm",
+          "translation": "Они жили на 150-акровой ферме"
+        },
+        {
+          "id": 862,
+          "round_id": 87,
+          "text": "I believe that there is an afterlife",
+          "translation": "Я считаю, что есть загробная жизнь"
+        },
+        {
+          "id": 863,
+          "round_id": 87,
+          "text": "The meeting was held in the faculty chamber",
+          "translation": "Встреча прошла в факультетской палате"
+        },
+        {
+          "id": 864,
+          "round_id": 87,
+          "text": "The river cut a channel through the rocks",
+          "translation": "Река пробила канал сквозь скалы"
+        },
+        {
+          "id": 865,
+          "round_id": 87,
+          "text": "Earth has a solid inner core",
+          "translation": "Земля имеет твердое внутреннее ядро"
+        },
+        {
+          "id": 866,
+          "round_id": 87,
+          "text": "He has a distinct accent",
+          "translation": "У него отчетливый акцент"
+        },
+        {
+          "id": 867,
+          "round_id": 87,
+          "text": "Only an elite group was allowed membership into the club",
+          "translation": "Только элитная группа была допущена к членству в клубе"
+        },
+        {
+          "id": 868,
+          "round_id": 87,
+          "text": "My grandfather founded the City Bank",
+          "translation": "Мой дед основал городской банк"
+        },
+        {
+          "id": 869,
+          "round_id": 87,
+          "text": "There is a small gap between the blocks of wood",
+          "translation": "Между блоками дерева есть небольшой зазор"
+        },
+        {
+          "id": 870,
+          "round_id": 87,
+          "text": "They enjoyed the glory of the beautiful sunset",
+          "translation": "Они наслаждались славой прекрасного заката"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "level_id": 3,
+      "name": "Rocky Landscape with Antique Ruins",
+      "image": "assets/3/3_02.jpg",
+      "author": "BERCHEM, Nicolaes",
+      "year": "1657",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 871,
+          "round_id": 88,
+          "text": "They looked at the interior of the box",
+          "translation": "Они посмотрели на внутреннюю часть коробки"
+        },
+        {
+          "id": 872,
+          "round_id": 88,
+          "text": "We went to see the lion at the zoo",
+          "translation": "Мы пошли, чтобы увидеть льва в зоопарке"
+        },
+        {
+          "id": 873,
+          "round_id": 88,
+          "text": "The Duchess was part of the royal family",
+          "translation": "Герцогиня была частью королевской семьи"
+        },
+        {
+          "id": 874,
+          "round_id": 88,
+          "text": "She was the sole woman in the room",
+          "translation": "Она была единственной женщиной в комнате"
+        },
+        {
+          "id": 875,
+          "round_id": 88,
+          "text": "He took the stairs instead of the elevator",
+          "translation": "Он поднялся по лестнице вместо лифта"
+        },
+        {
+          "id": 876,
+          "round_id": 88,
+          "text": "She wiped the surface of the table",
+          "translation": "Она вытерла поверхность стола"
+        },
+        {
+          "id": 877,
+          "round_id": 88,
+          "text": "I think you’ll get Tom’s agreement to this proposal",
+          "translation": "Я думаю, что вы получите согласие Тома на это предложение"
+        },
+        {
+          "id": 878,
+          "round_id": 88,
+          "text": "Difficulties arose with his computer because it was old",
+          "translation": "Трудности возникли с его компьютером, потому что он был старым"
+        },
+        {
+          "id": 879,
+          "round_id": 88,
+          "text": "I encountered a sea turtle while I was swimming",
+          "translation": "Я столкнулся с морской черепахой во время плавания"
+        },
+        {
+          "id": 880,
+          "round_id": 88,
+          "text": "Stacy and Heather forged their friendship when they were teenagers",
+          "translation": "Стейси и Хизер подружились, когда были подростками"
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "level_id": 3,
+      "name": "The Banks of the Manzanares River",
+      "image": "assets/3/3_03.jpg",
+      "author": "BERUETE, Aureliano",
+      "year": "1878",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 881,
+          "round_id": 89,
+          "text": "The horse had shoes made of iron",
+          "translation": "У лошади были туфли из железа"
+        },
+        {
+          "id": 882,
+          "round_id": 89,
+          "text": "Derek is very modest for someone who is so rich",
+          "translation": "Дерек очень скромен для такого богатого человека"
+        },
+        {
+          "id": 883,
+          "round_id": 89,
+          "text": "US President Abraham Lincoln is on the penny",
+          "translation": "Президент США Авраам Линкольн на пенни"
+        },
+        {
+          "id": 884,
+          "round_id": 89,
+          "text": "Aaron often preached about living an honest life",
+          "translation": "Аарон часто проповедовал о честной жизни"
+        },
+        {
+          "id": 885,
+          "round_id": 89,
+          "text": "Canada is divided into several different provinces",
+          "translation": "Канада разделена на несколько разных провинций"
+        },
+        {
+          "id": 886,
+          "round_id": 89,
+          "text": "Tina acquired a strange package yesterday",
+          "translation": "Тина вчера приобрела странную посылку"
+        },
+        {
+          "id": 887,
+          "round_id": 89,
+          "text": "After dropping his coffee cup, Robbie felt awkward",
+          "translation": "Уронив чашку с кофе, Робби почувствовал себя неловко"
+        },
+        {
+          "id": 888,
+          "round_id": 89,
+          "text": "My grandmother’s caretaker helps her get around the house",
+          "translation": "Смотритель моей бабушки помогает ей передвигаться по дому"
+        },
+        {
+          "id": 889,
+          "round_id": 89,
+          "text": "He tried to deceive his friends with a card trick",
+          "translation": "Он пытался обмануть своих друзей карточным фокусом"
+        },
+        {
+          "id": 890,
+          "round_id": 89,
+          "text": "Mr. Perry discouraged the students from quitting school",
+          "translation": "Мистер Перри отговорил учеников бросить школу"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "level_id": 3,
+      "name": "The Augustan Bridge",
+      "image": "assets/3/3_04.jpg",
+      "author": "BIDAULD, Jean-Joseph-Xavier",
+      "year": "1790",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 891,
+          "round_id": 90,
+          "text": "The model was wearing fake hair",
+          "translation": "Модель носила поддельные волосы"
+        },
+        {
+          "id": 892,
+          "round_id": 90,
+          "text": "I have a hatred for the taste of medicine",
+          "translation": "У меня есть ненависть к вкусу лекарства"
+        },
+        {
+          "id": 893,
+          "round_id": 90,
+          "text": "We all went into the hut to sleep",
+          "translation": "Мы все пошли в хижину спать"
+        },
+        {
+          "id": 894,
+          "round_id": 90,
+          "text": "During our ski trip, we stayed at a lodge",
+          "translation": "Во время нашей лыжной поездки мы остановились в лодже"
+        },
+        {
+          "id": 895,
+          "round_id": 90,
+          "text": "William neglected his room, so it is a complete mess",
+          "translation": "Уильям забросил свою комнату, так что это полный беспорядок"
+        },
+        {
+          "id": 896,
+          "round_id": 90,
+          "text": "The students happily welcomed the newcomer to the school",
+          "translation": "Студенты с радостью приветствовали новичка в школе"
+        },
+        {
+          "id": 897,
+          "round_id": 90,
+          "text": "Stealing a car is a very serious offense",
+          "translation": "Кража автомобиля - очень серьезное преступление"
+        },
+        {
+          "id": 898,
+          "round_id": 90,
+          "text": "Brenda overlooked the last step and had a bad fall",
+          "translation": "Бренда упустила последний шаг и потерпела неудачу"
+        },
+        {
+          "id": 899,
+          "round_id": 90,
+          "text": "Steve looked ridiculous with those huge blue sunglasses",
+          "translation": "Стив выглядел смешно с этими огромными синими солнцезащитными очками"
+        },
+        {
+          "id": 900,
+          "round_id": 90,
+          "text": "Mina often received satisfactory grades since she studied so hard",
+          "translation": "Мина часто получала удовлетворительные оценки, так как она так усердно училась"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "level_id": 3,
+      "name": "Landscape with Sarcophagus",
+      "image": "assets/3/3_05.jpg",
+      "author": "BLANCHET, Thomas",
+      "year": "1650-1652",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 901,
+          "round_id": 91,
+          "text": "The shepherd moved the sheep to another field",
+          "translation": "Пастух перенес овец в другое поле"
+        },
+        {
+          "id": 902,
+          "round_id": 91,
+          "text": "Even though it was dangerous, they ventured up the mountain",
+          "translation": "Хотя это было опасно, они рискнули подняться на гору"
+        },
+        {
+          "id": 903,
+          "round_id": 91,
+          "text": "The field of golden wheat was ready to be harvested",
+          "translation": "Поле золотой пшеницы было готово к уборке"
+        },
+        {
+          "id": 904,
+          "round_id": 91,
+          "text": "The alley behind my house looks dirty",
+          "translation": "Аллея позади моего дома выглядит грязной"
+        },
+        {
+          "id": 905,
+          "round_id": 91,
+          "text": "Eric did a decent job painting the fence",
+          "translation": "Эрик проделал достойную работу, покрасив забор"
+        },
+        {
+          "id": 906,
+          "round_id": 91,
+          "text": "This is a disgraceful waste of money",
+          "translation": "Это позорная трата денег"
+        },
+        {
+          "id": 907,
+          "round_id": 91,
+          "text": "The campers stayed in the tent overnight",
+          "translation": "Отдыхающие остались в палатке на ночь"
+        },
+        {
+          "id": 908,
+          "round_id": 91,
+          "text": "There were many beautiful pine trees in the forest",
+          "translation": "В лесу было много прекрасных сосен"
+        },
+        {
+          "id": 909,
+          "round_id": 91,
+          "text": "The man had horrible scars on his cheek and forehead",
+          "translation": "У человека были ужасные шрамы на щеке и лбу"
+        },
+        {
+          "id": 910,
+          "round_id": 91,
+          "text": "Jake teased Charlie because he was the new student",
+          "translation": "Джейк дразнил Чарли, потому что он был новым учеником"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "level_id": 3,
+      "name": "Building the Devil's Bridge",
+      "image": "assets/3/3_06.jpg",
+      "author": "BLECHEN, Karl",
+      "year": "1833",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 911,
+          "round_id": 92,
+          "text": "Harry wanted Molly to be his valentine",
+          "translation": "Гарри хотел, чтобы Молли была его валентинкой"
+        },
+        {
+          "id": 912,
+          "round_id": 92,
+          "text": "Nancy acquainted herself with the new computer",
+          "translation": "Нэнси познакомилась с новым компьютером"
+        },
+        {
+          "id": 913,
+          "round_id": 92,
+          "text": "Some people are scared of cemeteries",
+          "translation": "Некоторые люди боятся кладбищ"
+        },
+        {
+          "id": 914,
+          "round_id": 92,
+          "text": "Those creatures live in Africa",
+          "translation": "Эти существа живут в Африке"
+        },
+        {
+          "id": 915,
+          "round_id": 92,
+          "text": "The witch cursed the village",
+          "translation": "Ведьма прокляла деревню"
+        },
+        {
+          "id": 916,
+          "round_id": 92,
+          "text": "Everyone knew that it was Dad in the Santa disguise",
+          "translation": "Все знали, что это был папа в маске Санты"
+        },
+        {
+          "id": 917,
+          "round_id": 92,
+          "text": "Their table was all set for a fancy dinner",
+          "translation": "Их стол был накрыт для шикарного ужина"
+        },
+        {
+          "id": 918,
+          "round_id": 92,
+          "text": "We took a flashlight when we went camping",
+          "translation": "Мы взяли фонарик, когда пошли в поход"
+        },
+        {
+          "id": 919,
+          "round_id": 92,
+          "text": "She put on her hood to keep her head warm",
+          "translation": "Она надела свой капюшон, чтобы держать голову в тепле"
+        },
+        {
+          "id": 920,
+          "round_id": 92,
+          "text": "The number of inhabitants in the countryside is increasing",
+          "translation": "Число жителей в сельской местности увеличивается"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "level_id": 3,
+      "name": "Stag Hunting in the Dunes",
+      "image": "assets/3/3_07.jpg",
+      "author": "BLEKER, Gerrit Claesz",
+      "year": "1625-1629",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 921,
+          "round_id": 93,
+          "text": "A good mother will nourish her baby every day",
+          "translation": "Хорошая мама будет кормить ребенка каждый день"
+        },
+        {
+          "id": 922,
+          "round_id": 93,
+          "text": "Pirates are very scary characters",
+          "translation": "Пираты очень страшные персонажи"
+        },
+        {
+          "id": 923,
+          "round_id": 93,
+          "text": "The old log began to rot in the forest",
+          "translation": "Старое бревно начало гнить в лесу"
+        },
+        {
+          "id": 924,
+          "round_id": 93,
+          "text": "My workday will end shortly",
+          "translation": "Мой рабочий день скоро закончится"
+        },
+        {
+          "id": 925,
+          "round_id": 93,
+          "text": "There is a skeleton in the science classroom",
+          "translation": "В научном классе есть скелет"
+        },
+        {
+          "id": 926,
+          "round_id": 93,
+          "text": "We left the fruit out too long, and it spoiled",
+          "translation": "Мы оставили фрукты слишком долго, и они испортились"
+        },
+        {
+          "id": 927,
+          "round_id": 93,
+          "text": "During the war, many people starved",
+          "translation": "Во время войны многие люди голодали"
+        },
+        {
+          "id": 928,
+          "round_id": 93,
+          "text": "The surfer enjoys the thrill of surfing a big wave",
+          "translation": "Серфер наслаждается ощущением от серфинга на большой волне"
+        },
+        {
+          "id": 929,
+          "round_id": 93,
+          "text": "My boss is a very wicked man",
+          "translation": "Мой босс очень злой человек"
+        },
+        {
+          "id": 930,
+          "round_id": 93,
+          "text": "The fire alarm alerted us that there was a problem",
+          "translation": "Пожарная тревога предупредила нас, что возникла проблема"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "level_id": 3,
+      "name": "Landscape with the Prophet Elijah in the Desert",
+      "image": "assets/3/3_08.jpg",
+      "author": "BLOEMAERT, Abraham",
+      "year": "1610",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 931,
+          "round_id": 94,
+          "text": "We watched the broadcast of the local news on TV",
+          "translation": "Мы смотрели трансляцию местных новостей по телевизору"
+        },
+        {
+          "id": 932,
+          "round_id": 94,
+          "text": "Mom chopped some vegetables to put into the stew",
+          "translation": "Мама нарезала овощи, чтобы положить в рагу"
+        },
+        {
+          "id": 933,
+          "round_id": 94,
+          "text": "Marie has many clothes inside of her closet",
+          "translation": "У Мари много одежды в шкафу"
+        },
+        {
+          "id": 934,
+          "round_id": 94,
+          "text": "When my dog ran away, my dad consoled me",
+          "translation": "Когда моя собака убежала, папа утешил меня"
+        },
+        {
+          "id": 935,
+          "round_id": 94,
+          "text": "I live in a residential district of Seattle, Washington",
+          "translation": "Я живу в жилом районе Сиэтла, штат Вашингтон"
+        },
+        {
+          "id": 936,
+          "round_id": 94,
+          "text": "I put my clothes into the empty drawers",
+          "translation": "Я положил свою одежду в пустые ящики"
+        },
+        {
+          "id": 937,
+          "round_id": 94,
+          "text": "She had to endure her husband shouting all day long",
+          "translation": "Она должна была терпеть, что ее муж весь день кричал"
+        },
+        {
+          "id": 938,
+          "round_id": 94,
+          "text": "Some people are executed for serious crimes",
+          "translation": "Некоторые люди казнены за серьезные преступления"
+        },
+        {
+          "id": 939,
+          "round_id": 94,
+          "text": "He grasped the bag of money tightly",
+          "translation": "Он крепко схватил мешок с деньгами"
+        },
+        {
+          "id": 940,
+          "round_id": 94,
+          "text": "The man loaded the rear of his truck with boxes",
+          "translation": "Человек загрузил заднюю часть своего грузовика ящиками"
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "level_id": 3,
+      "name": "River Landscape with a Town and Fortified Tower",
+      "image": "assets/3/3_09.jpg",
+      "author": "GOYEN, Jan van",
+      "year": "1633",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 941,
+          "round_id": 95,
+          "text": "The brain is protected by the skull",
+          "translation": "Мозг защищен черепом"
+        },
+        {
+          "id": 942,
+          "round_id": 95,
+          "text": "Mom stirred the batter until it was smooth",
+          "translation": "Мама размешивала тесто, пока оно не стало гладким"
+        },
+        {
+          "id": 943,
+          "round_id": 95,
+          "text": "The roots of a tree are located underneath the ground",
+          "translation": "Корни дерева расположены под землей"
+        },
+        {
+          "id": 944,
+          "round_id": 95,
+          "text": "Worms are often used to help catch fish",
+          "translation": "Черви часто используются для ловли рыбы"
+        },
+        {
+          "id": 945,
+          "round_id": 95,
+          "text": "The old room had been abandoned years before",
+          "translation": "Старая комната была заброшена много лет назад"
+        },
+        {
+          "id": 946,
+          "round_id": 95,
+          "text": "Kendra had to be ambitious to get into medical school",
+          "translation": "Кендре нужно было амбициозно поступить в медицинскую школу"
+        },
+        {
+          "id": 947,
+          "round_id": 95,
+          "text": "The dog barked loudly and frighteningly",
+          "translation": "Пес лаял громко и пугающе"
+        },
+        {
+          "id": 948,
+          "round_id": 95,
+          "text": "The Golden Gate Bridge crosses San Francisco Bay",
+          "translation": "Мост Золотые Ворота пересекает залив Сан-Франциско"
+        },
+        {
+          "id": 949,
+          "round_id": 95,
+          "text": "My younger sister is brilliant for someone her age",
+          "translation": "Моя младшая сестра великолепна для своего возраста"
+        },
+        {
+          "id": 950,
+          "round_id": 95,
+          "text": "Luke pointed to the hair on his chin",
+          "translation": "Люк указал на волосы на подбородке"
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "level_id": 3,
+      "name": "The Champion Single Sculls (Max Schmitt in a Single Scull)",
+      "image": "assets/3/3_10.jpg",
+      "author": "EAKINS, Thomas",
+      "year": "1871",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 951,
+          "round_id": 96,
+          "text": "Mom said she didn’t want to hear my brother’s complaints",
+          "translation": "Мама сказала, что не хочет слышать жалобы моего брата"
+        },
+        {
+          "id": 952,
+          "round_id": 96,
+          "text": "Susan uses sign language because she is deaf",
+          "translation": "Сьюзен использует язык жестов, потому что она глухая"
+        },
+        {
+          "id": 953,
+          "round_id": 96,
+          "text": "The man was enthusiastic about his job",
+          "translation": "Человек был в восторге от своей работы"
+        },
+        {
+          "id": 954,
+          "round_id": 96,
+          "text": "They got into their spaceship to begin their expedition",
+          "translation": "Они сели в свой космический корабль, чтобы начать свою экспедицию"
+        },
+        {
+          "id": 955,
+          "round_id": 96,
+          "text": "The sun dipped below the horizon",
+          "translation": "Солнце опустилось за горизонт"
+        },
+        {
+          "id": 956,
+          "round_id": 96,
+          "text": "The three friends are very loyal to each other",
+          "translation": "Трое друзей очень преданы друг другу"
+        },
+        {
+          "id": 957,
+          "round_id": 96,
+          "text": "The mayor of my hometown is quite a powerful speaker",
+          "translation": "Мэр моего родного города довольно мощный оратор"
+        },
+        {
+          "id": 958,
+          "round_id": 96,
+          "text": "Lisa eats too much, so now she’s overweight",
+          "translation": "Лиза ест слишком много, так что теперь она весит больше нормы"
+        },
+        {
+          "id": 959,
+          "round_id": 96,
+          "text": "Victor restored the old car",
+          "translation": "Виктор восстановил старую машину"
+        },
+        {
+          "id": 960,
+          "round_id": 96,
+          "text": "Mom’s feet were sore, so she rubbed them",
+          "translation": "У мамы болели ноги, поэтому она потерла их"
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "level_id": 3,
+      "name": "A Frigate, Calm Seas",
+      "image": "assets/3/3_11.jpg",
+      "author": "ECKARDT, Christian Frederik Emil",
+      "year": "1867",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 961,
+          "round_id": 97,
+          "text": "It would be hard to live without your five senses",
+          "translation": "Было бы трудно жить без твоих пяти чувств"
+        },
+        {
+          "id": 962,
+          "round_id": 97,
+          "text": "Wanda became a veterinarian because she loves dogs",
+          "translation": "Ванда стала ветеринаром, потому что она любит собак"
+        },
+        {
+          "id": 963,
+          "round_id": 97,
+          "text": "I like to study arithmetic at school",
+          "translation": "Мне нравится изучать арифметику в школе"
+        },
+        {
+          "id": 964,
+          "round_id": 97,
+          "text": "He was ashamed when he forgot his teacher’s name",
+          "translation": "Ему было стыдно, когда он забыл имя своего учителя"
+        },
+        {
+          "id": 965,
+          "round_id": 97,
+          "text": "The bomb burst over the city",
+          "translation": "Взрыв бомбы над городом"
+        },
+        {
+          "id": 966,
+          "round_id": 97,
+          "text": "We hired a carpenter to make a cupboard",
+          "translation": "Мы наняли плотника, чтобы сделать шкаф"
+        },
+        {
+          "id": 967,
+          "round_id": 97,
+          "text": "Many power stations burn coal to produce energy",
+          "translation": "Многие электростанции сжигают уголь для производства энергии"
+        },
+        {
+          "id": 968,
+          "round_id": 97,
+          "text": "Kim and Martin’s new couch was very expensive",
+          "translation": "Новый диван Ким и Мартина был очень дорогим"
+        },
+        {
+          "id": 969,
+          "round_id": 97,
+          "text": "I heard water dripping from the faucet",
+          "translation": "Я слышал, как вода капала из крана"
+        },
+        {
+          "id": 970,
+          "round_id": 97,
+          "text": "In Japan, women wear elegant kimonos on special occasions",
+          "translation": "В Японии женщины носят элегантные кимоно в особых случаях"
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "level_id": 3,
+      "name": "A Brig under Sail in Fair Weather",
+      "image": "assets/3/3_12.jpg",
+      "author": "ECKERSBERG, Christoffer Wilhelm",
+      "year": "1844-1845",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 971,
+          "round_id": 98,
+          "text": "The towels were made from a soft fabric",
+          "translation": "Полотенца были сделаны из мягкой ткани"
+        },
+        {
+          "id": 972,
+          "round_id": 98,
+          "text": "The man had a small home in the highlands",
+          "translation": "У этого человека был маленький дом в горах"
+        },
+        {
+          "id": 973,
+          "round_id": 98,
+          "text": "The elephant’s long ivory tusks looked very impressive",
+          "translation": "Длинные клыки слона выглядели очень впечатляюще"
+        },
+        {
+          "id": 974,
+          "round_id": 98,
+          "text": "Mark spent all morning polishing his shoes for the wedding",
+          "translation": "Марк провел все утро, полируя свою обувь для свадьбы"
+        },
+        {
+          "id": 975,
+          "round_id": 98,
+          "text": "I learned to sew when I was a little girl",
+          "translation": "Я научился шить, когда был маленькой девочкой"
+        },
+        {
+          "id": 976,
+          "round_id": 98,
+          "text": "We have a small shed in the backyard for storage",
+          "translation": "У нас есть небольшой сарай на заднем дворе для хранения"
+        },
+        {
+          "id": 977,
+          "round_id": 98,
+          "text": "I have many different colors of thread at home",
+          "translation": "У меня дома много разных цветов ниток"
+        },
+        {
+          "id": 978,
+          "round_id": 98,
+          "text": "I had my hair trimmed this afternoon",
+          "translation": "Мне подстригли сегодня днем"
+        },
+        {
+          "id": 979,
+          "round_id": 98,
+          "text": "The kite went upwards further and further",
+          "translation": "Воздушный змей шел вверх и дальше"
+        },
+        {
+          "id": 980,
+          "round_id": 98,
+          "text": "Owen bounced the ball on the ground",
+          "translation": "Оуэн отскочил мяч на землю"
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "level_id": 3,
+      "name": "The Cloisters, San Lorenzo fuori le mura",
+      "image": "assets/3/3_13.jpg",
+      "author": "ECKERSBERG, Christoffer Wilhelm",
+      "year": "1824",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 981,
+          "round_id": 99,
+          "text": "The two bullies always picked on the smaller, weaker kids",
+          "translation": "Два хулигана всегда выбирают более слабых детей"
+        },
+        {
+          "id": 982,
+          "round_id": 99,
+          "text": "The baby crawled across the floor",
+          "translation": "Ребенок ползал по полу"
+        },
+        {
+          "id": 983,
+          "round_id": 99,
+          "text": "The champion defeated the challenger in the boxing match",
+          "translation": "Чемпион победил претендента в боксерском поединке"
+        },
+        {
+          "id": 984,
+          "round_id": 99,
+          "text": "The entire table was covered with food",
+          "translation": "Весь стол был накрыт едой"
+        },
+        {
+          "id": 985,
+          "round_id": 99,
+          "text": "I nodded my head as I listened to the song",
+          "translation": "Я кивнул головой, слушая песню"
+        },
+        {
+          "id": 986,
+          "round_id": 99,
+          "text": "On the field, our opponents were too good for us",
+          "translation": "На поле наши соперники были слишком хороши для нас"
+        },
+        {
+          "id": 987,
+          "round_id": 99,
+          "text": "Billy quarreled with his wife about buying a new house",
+          "translation": "Билли поссорился со своей женой о покупке нового дома"
+        },
+        {
+          "id": 988,
+          "round_id": 99,
+          "text": "The three rivals were all competing for the same job",
+          "translation": "Все три соперника боролись за одну и ту же работу"
+        },
+        {
+          "id": 989,
+          "round_id": 99,
+          "text": "After lifting the heavy box, Mona’s back was sore",
+          "translation": "Подняв тяжелый ящик, у Моны болела спина"
+        },
+        {
+          "id": 990,
+          "round_id": 99,
+          "text": "The needle stung my arm and made me say, “Ouch!”",
+          "translation": "Игла ужалила мне руку и заставила сказать: 'Ой!'"
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "level_id": 3,
+      "name": "View of Amsterdam",
+      "image": "assets/3/3_14.jpg",
+      "author": "EKELS, Jan the Elder",
+      "year": "1750-1780",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 991,
+          "round_id": 100,
+          "text": "Casey strained to lift the heavy box",
+          "translation": "Кейси напряглась, чтобы поднять тяжелую коробку"
+        },
+        {
+          "id": 992,
+          "round_id": 100,
+          "text": "Greg thought that writing the essay was torture",
+          "translation": "Грег думал, что написание эссе было пыткой"
+        },
+        {
+          "id": 993,
+          "round_id": 100,
+          "text": "There is an absence of sand in the hourglass",
+          "translation": "В песочных часах нет песка"
+        },
+        {
+          "id": 994,
+          "round_id": 100,
+          "text": "My oldest brother is bald",
+          "translation": "Мой старший брат лысый"
+        },
+        {
+          "id": 995,
+          "round_id": 100,
+          "text": "The cat slowly crept down the tree",
+          "translation": "Кот медленно сполз по дереву"
+        },
+        {
+          "id": 996,
+          "round_id": 100,
+          "text": "Divorce rates have increased in the past twenty years",
+          "translation": "Число разводов возросло за последние двадцать лет"
+        },
+        {
+          "id": 997,
+          "round_id": 100,
+          "text": "He imitated his favorite superhero by putting on a costume",
+          "translation": "Он подражал своему любимому супергерою, надев костюм"
+        },
+        {
+          "id": 998,
+          "round_id": 100,
+          "text": "The infant cried all night",
+          "translation": "Младенец плакал всю ночь"
+        },
+        {
+          "id": 999,
+          "round_id": 100,
+          "text": "Unfortunately, water was nowhere to be found",
+          "translation": "К сожалению, воды нигде не было"
+        },
+        {
+          "id": 1000,
+          "round_id": 100,
+          "text": "I patted some lotion onto my face",
+          "translation": "Я похлопал немного лосьона по лицу"
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "level_id": 3,
+      "name": "View of the Zuidsingel, Amersfoort",
+      "image": "assets/3/3_15.jpg",
+      "author": "EKELS, Jan the Elder",
+      "year": "1760-1780",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 1001,
+          "round_id": 101,
+          "text": "The children tried to reproduce their house using toy blocks",
+          "translation": "Дети пытались воспроизвести свой дом, используя игрушечные блоки"
+        },
+        {
+          "id": 1002,
+          "round_id": 101,
+          "text": "The baby sucked milk from her bottle",
+          "translation": "Ребенок сосал молоко из бутылочки"
+        },
+        {
+          "id": 1003,
+          "round_id": 101,
+          "text": "He had to leave at that moment; it was urgent",
+          "translation": "Он должен был уйти в тот момент; это было срочно"
+        },
+        {
+          "id": 1004,
+          "round_id": 101,
+          "text": "All the passengers vanished from the train station",
+          "translation": "Все пассажиры исчезли с вокзала"
+        },
+        {
+          "id": 1005,
+          "round_id": 101,
+          "text": "He used his wagon to carry some of his gifts",
+          "translation": "Он использовал свой фургон, чтобы нести некоторые из своих подарков"
+        },
+        {
+          "id": 1006,
+          "round_id": 101,
+          "text": "My grandfather has some wrinkles on his face",
+          "translation": "У моего дедушки морщины на лице"
+        },
+        {
+          "id": 1007,
+          "round_id": 101,
+          "text": "He put the vegetables in a basket",
+          "translation": "Он положил овощи в корзину"
+        },
+        {
+          "id": 1008,
+          "round_id": 101,
+          "text": "The white daisies were about to bloom",
+          "translation": "Белые ромашки должны были расцвести"
+        },
+        {
+          "id": 1009,
+          "round_id": 101,
+          "text": "He paddled his canoe to the edge of the lake",
+          "translation": "Он греб на своем каноэ к берегу озера"
+        },
+        {
+          "id": 1010,
+          "round_id": 101,
+          "text": "His white living room carpet was soft",
+          "translation": "Его белый ковер в гостиной был мягким"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "level_id": 3,
+      "name": "Seascape",
+      "image": "assets/3/3_16.jpg",
+      "author": "EYCK, Gaspard van",
+      "year": "1650",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 1011,
+          "round_id": 102,
+          "text": "My cousin looks just like me",
+          "translation": "Мой двоюродный брат выглядит так же, как я"
+        },
+        {
+          "id": 1012,
+          "round_id": 102,
+          "text": "She put the books on her desk",
+          "translation": "Она положила книги на стол"
+        },
+        {
+          "id": 1013,
+          "round_id": 102,
+          "text": "The art gallery displayed beautiful paintings",
+          "translation": "В картинной галерее выставлены прекрасные картины"
+        },
+        {
+          "id": 1014,
+          "round_id": 102,
+          "text": "Alice invited a special guest for dinner",
+          "translation": "Алиса пригласила специального гостя на ужин"
+        },
+        {
+          "id": 1015,
+          "round_id": 102,
+          "text": "He was a gracious host",
+          "translation": "Он был добрым хозяином"
+        },
+        {
+          "id": 1016,
+          "round_id": 102,
+          "text": "Her birthday is in July",
+          "translation": "Ее день рождения в июле"
+        },
+        {
+          "id": 1017,
+          "round_id": 102,
+          "text": "The kitchen had a modern look",
+          "translation": "Кухня выглядела современно"
+        },
+        {
+          "id": 1018,
+          "round_id": 102,
+          "text": "The Louvre is a famous museum in France",
+          "translation": "Лувр - известный музей во Франции"
+        },
+        {
+          "id": 1019,
+          "round_id": 102,
+          "text": "She chose a pink lipstick",
+          "translation": "Она выбрала розовую помаду"
+        },
+        {
+          "id": 1020,
+          "round_id": 102,
+          "text": "They took a plane across the ocean to India",
+          "translation": "Они взяли самолет через океан в Индию"
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "level_id": 3,
+      "name": "Southern Pastoral",
+      "image": "assets/3/3_17.jpg",
+      "author": "BERCHEM, Nicolaes",
+      "year": "1658",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 1021,
+          "round_id": 103,
+          "text": "He kept milk, eggs, and butter in the refrigerator",
+          "translation": "Он хранил молоко, яйца и масло в холодильнике"
+        },
+        {
+          "id": 1022,
+          "round_id": 103,
+          "text": "In the winter, the temperature can drop below 0 degrees",
+          "translation": "Зимой температура может опускаться ниже 0 градусов"
+        },
+        {
+          "id": 1023,
+          "round_id": 103,
+          "text": "He took the elevator to the upper floor",
+          "translation": "Он поднялся на лифте на верхний этаж"
+        },
+        {
+          "id": 1024,
+          "round_id": 103,
+          "text": "She greeted her friends with a warm welcome",
+          "translation": "Она встретила своих друзей с теплым приемом"
+        },
+        {
+          "id": 1025,
+          "round_id": 103,
+          "text": "Carrie anticipated the arrival of her baby",
+          "translation": "Кэрри предвосхитила прибытие своего ребенка"
+        },
+        {
+          "id": 1026,
+          "round_id": 103,
+          "text": "There was an empty barrel outside the house",
+          "translation": "У дома была пустая бочка"
+        },
+        {
+          "id": 1027,
+          "round_id": 103,
+          "text": "Modern skyscrapers are made with many beams",
+          "translation": "Современные небоскребы сделаны со многими лучами"
+        },
+        {
+          "id": 1028,
+          "round_id": 103,
+          "text": "You can wear casual clothes, like jeans, to the party",
+          "translation": "Вы можете носить повседневную одежду, как джинсы, на вечеринку"
+        },
+        {
+          "id": 1029,
+          "round_id": 103,
+          "text": "Bernie made a deliberate attempt to injure Andy",
+          "translation": "Берни сделал преднамеренную попытку ранить Энди"
+        },
+        {
+          "id": 1030,
+          "round_id": 103,
+          "text": "I dissolved the pill in a glass of water",
+          "translation": "Я растворил таблетку в стакане воды"
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "level_id": 3,
+      "name": "Winter Landscape",
+      "image": "assets/3/3_18.jpg",
+      "author": "BERGHE, Christoffel van den",
+      "year": "1615-1620",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 1031,
+          "round_id": 104,
+          "text": "The old TV exploded when I plugged it in",
+          "translation": "Старый телевизор взорвался, когда я подключил его"
+        },
+        {
+          "id": 1032,
+          "round_id": 104,
+          "text": "Elizabeth fastened her seat belt",
+          "translation": "Элизабет пристегнула ремень безопасности"
+        },
+        {
+          "id": 1033,
+          "round_id": 104,
+          "text": "Germs are on everything that you touch",
+          "translation": "Микробы на всем, что вы касаетесь"
+        },
+        {
+          "id": 1034,
+          "round_id": 104,
+          "text": "Is there a first aid kit in your office?",
+          "translation": "Есть ли аптечка в вашем офисе?"
+        },
+        {
+          "id": 1035,
+          "round_id": 104,
+          "text": "A puff of smoke came from the burnt match",
+          "translation": "Сгоревшая спичка вышла из дыма"
+        },
+        {
+          "id": 1036,
+          "round_id": 104,
+          "text": "I accidentally scattered all of my pills",
+          "translation": "Я случайно разбросал все свои таблетки"
+        },
+        {
+          "id": 1037,
+          "round_id": 104,
+          "text": "Julie enjoyed the scent of the flowers",
+          "translation": "Джули наслаждалась ароматом цветов"
+        },
+        {
+          "id": 1038,
+          "round_id": 104,
+          "text": "The new apartment building was made with steel",
+          "translation": "Новый жилой дом сделан из стали"
+        },
+        {
+          "id": 1039,
+          "round_id": 104,
+          "text": "The swift horse easily jumped over the hurdle",
+          "translation": "Стремительный конь легко перепрыгнул через препятствие"
+        },
+        {
+          "id": 1040,
+          "round_id": 104,
+          "text": "He tossed a coin into the air",
+          "translation": "Он бросил монетку в воздух"
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "level_id": 3,
+      "name": "The Silver Seascape",
+      "image": "assets/3/3_19.jpg",
+      "author": "BEYEREN, Abraham van",
+      "year": "1640-1650",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 1041,
+          "round_id": 105,
+          "text": "They climbed aboard the kayak and paddled through the river",
+          "translation": "Они поднялись на борт каяка и плыли через реку"
+        },
+        {
+          "id": 1042,
+          "round_id": 105,
+          "text": "He was extremely bitter when his computer crashed",
+          "translation": "Он был очень горьким, когда его компьютер сломался"
+        },
+        {
+          "id": 1043,
+          "round_id": 105,
+          "text": "Bullets come in different sizes for different guns",
+          "translation": "Пули бывают разных размеров для разных видов оружия"
+        },
+        {
+          "id": 1044,
+          "round_id": 105,
+          "text": "The church promised protection from the devil",
+          "translation": "Церковь обещала защиту от дьявола"
+        },
+        {
+          "id": 1045,
+          "round_id": 105,
+          "text": "The large chunk of ice drifted in the water",
+          "translation": "Большой кусок льда дрейфовал в воде"
+        },
+        {
+          "id": 1046,
+          "round_id": 105,
+          "text": "Police enforce traffic laws to keep everyone safe",
+          "translation": "Полиция обеспечивает соблюдение правил дорожного движения, чтобы обеспечить безопасность всех"
+        },
+        {
+          "id": 1047,
+          "round_id": 105,
+          "text": "There were a few small boats in the harbor",
+          "translation": "В гавани было несколько маленьких лодок"
+        },
+        {
+          "id": 1048,
+          "round_id": 105,
+          "text": "No one inhabits the ancient city",
+          "translation": "Никто не населяет древний город"
+        },
+        {
+          "id": 1049,
+          "round_id": 105,
+          "text": "The soldiers marched in straight rows",
+          "translation": "Солдаты шли прямыми рядами"
+        },
+        {
+          "id": 1050,
+          "round_id": 105,
+          "text": "The ship was being loaded with materials at the port",
+          "translation": "Корабль загружался материалами в порту"
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "level_id": 3,
+      "name": "View of the Isle of Sora",
+      "image": "assets/3/3_20.jpg",
+      "author": "BIDAULD, Jean-Joseph-Xavier",
+      "year": "1793",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 1051,
+          "round_id": 106,
+          "text": "It was the sheriff’s job to make the city safe",
+          "translation": "Это была работа шерифа, чтобы сделать город безопасным"
+        },
+        {
+          "id": 1052,
+          "round_id": 106,
+          "text": "The loud crash startled the sleeping woman",
+          "translation": "Громкий грохот поразил спящую женщину"
+        },
+        {
+          "id": 1053,
+          "round_id": 106,
+          "text": "We toured the area aboard a luxury vessel",
+          "translation": "Мы совершили поездку по области на борту роскошного судна"
+        },
+        {
+          "id": 1054,
+          "round_id": 106,
+          "text": "Many people around the world worship in a church",
+          "translation": "Многие люди по всему миру поклоняются в церкви"
+        },
+        {
+          "id": 1055,
+          "round_id": 106,
+          "text": "Mark is an apprentice chef at the restaurant",
+          "translation": "Марк - ученик шеф-повара в ресторане"
+        },
+        {
+          "id": 1056,
+          "round_id": 106,
+          "text": "The women bonded after several hours of conversation",
+          "translation": "Женщины сблизились после нескольких часов разговора"
+        },
+        {
+          "id": 1057,
+          "round_id": 106,
+          "text": "Tom is a chef at the restaurant near my house",
+          "translation": "Том - повар в ресторане около моего дома"
+        },
+        {
+          "id": 1058,
+          "round_id": 106,
+          "text": "The crown is made of gold",
+          "translation": "Корона сделана из золота"
+        },
+        {
+          "id": 1059,
+          "round_id": 106,
+          "text": "Craig has always been a very diligent person at work",
+          "translation": "Крейг всегда был очень прилежным человеком на работе"
+        },
+        {
+          "id": 1060,
+          "round_id": 106,
+          "text": "The emperor Julius Caesar was in control of ancient Rome",
+          "translation": "Император Юлий Цезарь контролировал Древний Рим"
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "level_id": 3,
+      "name": "Cavalry Battle Scene",
+      "image": "assets/3/3_21.jpg",
+      "author": "BLEKER, Gerrit Claesz",
+      "year": "1656",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 1061,
+          "round_id": 107,
+          "text": "The mat was made from tiny fibers",
+          "translation": "Коврик был сделан из крошечных волокон"
+        },
+        {
+          "id": 1062,
+          "round_id": 107,
+          "text": "The assignment was horrible. I hated it",
+          "translation": "Назначение было ужасно. Я ненавидел это"
+        },
+        {
+          "id": 1063,
+          "round_id": 107,
+          "text": "Roger is impolite to everyone he meets",
+          "translation": "Роджер невежлив со всеми, кого встречает"
+        },
+        {
+          "id": 1064,
+          "round_id": 107,
+          "text": "Our honeymoon resort was a luxury we really enjoyed",
+          "translation": "Наш медовый месяц был роскошью, которой мы действительно наслаждались"
+        },
+        {
+          "id": 1065,
+          "round_id": 107,
+          "text": "The wheels on his truck were massive",
+          "translation": "Колеса на его грузовике были массивными"
+        },
+        {
+          "id": 1066,
+          "round_id": 107,
+          "text": "Everyone panicked when the house caught on fire",
+          "translation": "Все запаниковали, когда дом загорелся"
+        },
+        {
+          "id": 1067,
+          "round_id": 107,
+          "text": "My priority is to get good grades in school",
+          "translation": "Мой приоритет - получать хорошие оценки в школе"
+        },
+        {
+          "id": 1068,
+          "round_id": 107,
+          "text": "The monks at the temple all wear robes",
+          "translation": "Монахи в храме все носят одежды"
+        },
+        {
+          "id": 1069,
+          "round_id": 107,
+          "text": "Jesse was scolded by the teacher for not paying attention",
+          "translation": "Джесси был отчитан учителем за то, что он не обратил внимания"
+        },
+        {
+          "id": 1070,
+          "round_id": 107,
+          "text": "The students had an assembly to talk about their interests",
+          "translation": "У студентов было собрание, чтобы поговорить об их интересах"
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "level_id": 3,
+      "name": "Landscape with the Parable of the Tares among the Wheat",
+      "image": "assets/3/3_22.jpg",
+      "author": "BLOEMAERT, Abraham",
+      "year": "1624",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 1071,
+          "round_id": 108,
+          "text": "The angel blessed the newborn baby to keep it safe",
+          "translation": "Ангел благословил новорожденного, чтобы он был в безопасности"
+        },
+        {
+          "id": 1072,
+          "round_id": 108,
+          "text": "The diameter of the tree was about 60 centimeters",
+          "translation": "Диаметр дерева составлял около 60 сантиметров "
+        },
+        {
+          "id": 1073,
+          "round_id": 108,
+          "text": "They had a lot of wheat from the last harvest",
+          "translation": "У них было много пшеницы с последнего урожая"
+        },
+        {
+          "id": 1074,
+          "round_id": 108,
+          "text": "They felt merry because the weather was great",
+          "translation": "Им было весело, потому что погода была отличной"
+        },
+        {
+          "id": 1075,
+          "round_id": 108,
+          "text": "To eat a nut, you must first crack its shell",
+          "translation": "Чтобы съесть орех, нужно сначала взломать его скорлупу"
+        },
+        {
+          "id": 1076,
+          "round_id": 108,
+          "text": "The pharaohs ruled Egypt for thousands of years",
+          "translation": "Фараоны правили Египтом тысячи лет"
+        },
+        {
+          "id": 1077,
+          "round_id": 108,
+          "text": "The cherries were nice and ripe",
+          "translation": "Вишни были хорошими и спелыми"
+        },
+        {
+          "id": 1078,
+          "round_id": 108,
+          "text": "Mom roasted a turkey for the holiday dinner",
+          "translation": "Мама жарила индейку на праздничный ужин"
+        },
+        {
+          "id": 1079,
+          "round_id": 108,
+          "text": "My father’s daily routine includes shaving right before breakfast",
+          "translation": "Повседневная жизнь моего отца включает бритье прямо перед завтраком"
+        },
+        {
+          "id": 1080,
+          "round_id": 108,
+          "text": "Look at my new cell phone. It’s very slim",
+          "translation": "Посмотрите на мой новый сотовый телефон. Он очень тонкий"
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "level_id": 3,
+      "name": "A Scene in the Roman Campagna",
+      "image": "assets/3/3_23.jpg",
+      "author": "BLOEMEN, Jan Frans van",
+      "year": "1736",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 1081,
+          "round_id": 109,
+          "text": "He has a natural aptitude for water skiing",
+          "translation": "У него природная склонность к катанию на водных лыжах"
+        },
+        {
+          "id": 1082,
+          "round_id": 109,
+          "text": "Her co-worker complimented her for doing a good job",
+          "translation": "Ее коллега похвалила ее за хорошую работу"
+        },
+        {
+          "id": 1083,
+          "round_id": 109,
+          "text": "Before becoming a teacher, she worked in journalism",
+          "translation": "Прежде чем стать учителем, она работала в журналистике"
+        },
+        {
+          "id": 1084,
+          "round_id": 109,
+          "text": "He worked hard to create a successful literary career",
+          "translation": "Он много работал, чтобы создать успешную литературную карьеру"
+        },
+        {
+          "id": 1085,
+          "round_id": 109,
+          "text": "My mother sells medicine to people at the pharmacy",
+          "translation": "Моя мама продает лекарства людям в аптеке"
+        },
+        {
+          "id": 1086,
+          "round_id": 109,
+          "text": "She took a pill for her headache",
+          "translation": "Она приняла таблетку от головной боли"
+        },
+        {
+          "id": 1087,
+          "round_id": 109,
+          "text": "The girl felt sorrow after her best friend moved away",
+          "translation": "Девушка скорбела после того, как ее лучшая подруга ушла"
+        },
+        {
+          "id": 1088,
+          "round_id": 109,
+          "text": "I drank the orange juice through a straw",
+          "translation": "Я пил апельсиновый сок через соломинку"
+        },
+        {
+          "id": 1089,
+          "round_id": 109,
+          "text": "My sister’s stomach began to swell after she got pregnant",
+          "translation": "Живот моей сестры начал опухать после того, как она забеременела"
+        },
+        {
+          "id": 1090,
+          "round_id": 109,
+          "text": "Leon has always been a very tidy boy",
+          "translation": "Леон всегда был очень аккуратным мальчиком"
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "level_id": 3,
+      "name": "Naples, a View of Mergellina",
+      "image": "assets/3/3_24.jpg",
+      "author": "BLOEMEN, Jan Frans van",
+      "year": "1777",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 1091,
+          "round_id": 110,
+          "text": "The end of his cigar was full of ashes",
+          "translation": "Конец его сигары был полон пепла"
+        },
+        {
+          "id": 1092,
+          "round_id": 110,
+          "text": "The elephant is confined to a cage in the zoo",
+          "translation": "Слон ограничен клеткой в зоопарке"
+        },
+        {
+          "id": 1093,
+          "round_id": 110,
+          "text": "He quickly dismissed my idea about the new project",
+          "translation": "Он быстро отклонил мою идею о новом проекте"
+        },
+        {
+          "id": 1094,
+          "round_id": 110,
+          "text": "The volcano erupted for the first time in ten years",
+          "translation": "Вулкан извергся впервые за десять лет"
+        },
+        {
+          "id": 1095,
+          "round_id": 110,
+          "text": "The red-hot lava poured from the volcano",
+          "translation": "Раскаленная лава из вулкана"
+        },
+        {
+          "id": 1096,
+          "round_id": 110,
+          "text": "He was miserable after his dog died",
+          "translation": "Он был несчастен после того, как его собака умерла"
+        },
+        {
+          "id": 1097,
+          "round_id": 110,
+          "text": "She navigated the ship across the ocean",
+          "translation": "Она прошла корабль через океан"
+        },
+        {
+          "id": 1098,
+          "round_id": 110,
+          "text": "The idea of democracy originated in Ancient Greece",
+          "translation": "Идея демократии возникла в Древней Греции"
+        },
+        {
+          "id": 1099,
+          "round_id": 110,
+          "text": "She retrieved her mail from the mailbox",
+          "translation": "Она получила свою почту из почтового ящика"
+        },
+        {
+          "id": 1100,
+          "round_id": 110,
+          "text": "The kids were playing in the shallow water",
+          "translation": "Дети играли на мелководье"
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "level_id": 3,
+      "name": "River Landscape",
+      "image": "assets/3/3_25.jpg",
+      "author": "GAINSBOROUGH, Thomas",
+      "year": "1768-1770",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 1101,
+          "round_id": 111,
+          "text": "His work at the bakery has spanned twenty years",
+          "translation": "Его работа в пекарне длилась двадцать лет"
+        },
+        {
+          "id": 1102,
+          "round_id": 111,
+          "text": "The soldier wore armor to protect his body",
+          "translation": "Солдат носил доспехи, чтобы защитить свое тело"
+        },
+        {
+          "id": 1103,
+          "round_id": 111,
+          "text": "The small fire soon blazed into a large, dangerous one",
+          "translation": "Небольшой пожар вскоре превратился в большой, опасный"
+        },
+        {
+          "id": 1104,
+          "round_id": 111,
+          "text": "The firecrackers made a loud boom when they exploded",
+          "translation": "Фейерверки громко взорвались, когда взорвались"
+        },
+        {
+          "id": 1105,
+          "round_id": 111,
+          "text": "The wolf stood at the cliff and howled",
+          "translation": "Волк стоял у скалы и выл"
+        },
+        {
+          "id": 1106,
+          "round_id": 111,
+          "text": "The torch was filled with yellow and orange flames",
+          "translation": "Факел был наполнен желтым и оранжевым пламенем"
+        },
+        {
+          "id": 1107,
+          "round_id": 111,
+          "text": "After leaving home, Sophia had a great feeling of independence",
+          "translation": "Покинув дом, София почувствовала прекрасное чувство независимости"
+        },
+        {
+          "id": 1108,
+          "round_id": 111,
+          "text": "The lightning flashed above the water",
+          "translation": "Молния вспыхнула над водой"
+        },
+        {
+          "id": 1109,
+          "round_id": 111,
+          "text": "The rebel was angry about the government’s unfair policies",
+          "translation": "Мятежник был зол на нечестную политику правительства"
+        },
+        {
+          "id": 1110,
+          "round_id": 111,
+          "text": "The army retreated because they were losing the battle",
+          "translation": "Армия отступила, потому что они проигрывали битву"
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "level_id": 3,
+      "name": "The Seine in Paris between the Pont d'Iéna and Pont de Grenelle",
+      "image": "assets/3/3_26.jpg",
+      "author": "GAUGUIN, Paul",
+      "year": "1875",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 1111,
+          "round_id": 112,
+          "text": "The soldier was holding a spear in his hand",
+          "translation": "Солдат держал в руке копье"
+        },
+        {
+          "id": 1112,
+          "round_id": 112,
+          "text": "The sound of the thunder startled me",
+          "translation": "Звук грома поразил меня"
+        },
+        {
+          "id": 1113,
+          "round_id": 112,
+          "text": "The troops were all prepared to go into battle",
+          "translation": "Все войска были готовы идти в бой"
+        },
+        {
+          "id": 1114,
+          "round_id": 112,
+          "text": "Most parks have benches for people to relax upon",
+          "translation": "В большинстве парков есть скамейки, на которых можно отдохнуть"
+        },
+        {
+          "id": 1115,
+          "round_id": 112,
+          "text": "There were a few daisies growing in the field",
+          "translation": "Там было несколько ромашек, растущих в поле"
+        },
+        {
+          "id": 1116,
+          "round_id": 112,
+          "text": "Karen and Brian often have disputes about silly things",
+          "translation": "Карен и Брайан часто спорят о глупостях"
+        },
+        {
+          "id": 1117,
+          "round_id": 112,
+          "text": "The teacher showed the students an empty bottle",
+          "translation": "Учитель показал ученикам пустую бутылку"
+        },
+        {
+          "id": 1118,
+          "round_id": 112,
+          "text": "The forest was covered with mist",
+          "translation": "Лес был покрыт туманом"
+        },
+        {
+          "id": 1119,
+          "round_id": 112,
+          "text": "The shopping cart was filled with objects",
+          "translation": "Корзина была заполнена предметами"
+        },
+        {
+          "id": 1120,
+          "round_id": 112,
+          "text": "The orphan frequently cried during the night",
+          "translation": "Сирота часто плакала ночью"
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "level_id": 3,
+      "name": "A Corroboree in Van Diemen's Land",
+      "image": "assets/3/3_27.jpg",
+      "author": "GLOVER, John",
+      "year": "1840",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 1121,
+          "round_id": 113,
+          "text": "The group was plotting to ruin the company’s financial reports",
+          "translation": "Группа планировала испортить финансовые отчеты компании"
+        },
+        {
+          "id": 1122,
+          "round_id": 113,
+          "text": "The pregnant woman was shopping for baby clothes",
+          "translation": "Беременная женщина покупала детскую одежду"
+        },
+        {
+          "id": 1123,
+          "round_id": 113,
+          "text": "The boy felt shame about misplacing his clothes",
+          "translation": "Мальчику было стыдно за то, что он не положил свою одежду"
+        },
+        {
+          "id": 1124,
+          "round_id": 113,
+          "text": "The rose had a long thin stem",
+          "translation": "Роза имела длинный тонкий стебель"
+        },
+        {
+          "id": 1125,
+          "round_id": 113,
+          "text": "We usually have supper around 6 o’clock at my house",
+          "translation": "У нас обычно ужин около 6 часов в моем доме"
+        },
+        {
+          "id": 1126,
+          "round_id": 113,
+          "text": "The largest part of an iceberg lies beneath the waterline",
+          "translation": "Большая часть айсберга лежит под ватерлинией"
+        },
+        {
+          "id": 1127,
+          "round_id": 113,
+          "text": "The lion cub was crying for its mother",
+          "translation": "Львенок плачет по матери"
+        },
+        {
+          "id": 1128,
+          "round_id": 113,
+          "text": "At dawn, the sun gently rose over the farm",
+          "translation": "На рассвете солнце нежно взошло над фермой"
+        },
+        {
+          "id": 1129,
+          "round_id": 113,
+          "text": "I was dissatisfied with their decision to work on Sunday",
+          "translation": "Я был недоволен их решением работать в воскресенье"
+        },
+        {
+          "id": 1130,
+          "round_id": 113,
+          "text": "The monkey climbed the tree with ease",
+          "translation": "Обезьяна с легкостью залезла на дерево"
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "level_id": 3,
+      "name": "Beach at Scheveningen in Stormy Weather",
+      "image": "assets/3/3_28.jpg",
+      "author": "GOGH, Vincent van",
+      "year": "1882",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 1131,
+          "round_id": 114,
+          "text": "The wolf howled at the moon",
+          "translation": "Волк воет на луну"
+        },
+        {
+          "id": 1132,
+          "round_id": 114,
+          "text": "Fresh water is a necessity for life",
+          "translation": "Пресная вода необходима для жизни"
+        },
+        {
+          "id": 1133,
+          "round_id": 114,
+          "text": "The pile of cups was beginning to lean",
+          "translation": "Куча чашек начинала наклоняться"
+        },
+        {
+          "id": 1134,
+          "round_id": 114,
+          "text": "For a young man, Jeremy has some profound thoughts",
+          "translation": "У молодого человека у Джереми есть глубокие мысли"
+        },
+        {
+          "id": 1135,
+          "round_id": 114,
+          "text": "My youngest daughter is a terrific painter",
+          "translation": "Моя младшая дочь - потрясающий художник"
+        },
+        {
+          "id": 1136,
+          "round_id": 114,
+          "text": "One trait of Salvador’s personality is his cheerfulness",
+          "translation": "Одна черта личности Сальвадора - его жизнерадостность"
+        },
+        {
+          "id": 1137,
+          "round_id": 114,
+          "text": "The heart is a vital organ",
+          "translation": "Сердце - это жизненно важный орган"
+        },
+        {
+          "id": 1138,
+          "round_id": 114,
+          "text": "She watched the lizard attack its prey",
+          "translation": "Она смотрела, как ящерица нападает на свою жертву"
+        },
+        {
+          "id": 1139,
+          "round_id": 114,
+          "text": "She was diagnosed with breast cancer",
+          "translation": "У нее был диагностирован рак молочной железы"
+        },
+        {
+          "id": 1140,
+          "round_id": 114,
+          "text": "The exam found cancerous cells in the patient’s blood",
+          "translation": "При обследовании обнаружены раковые клетки в крови пациента"
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "level_id": 3,
+      "name": "Farmhouses among Trees",
+      "image": "assets/3/3_29.jpg",
+      "author": "GOGH, Vincent van",
+      "year": "1883",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 1141,
+          "round_id": 115,
+          "text": "A red blood cell carries oxygen",
+          "translation": "Эритроцит несет кислород"
+        },
+        {
+          "id": 1142,
+          "round_id": 115,
+          "text": "Cigarette smoking is terrible for your health",
+          "translation": "Курение сигарет вредно для вашего здоровья"
+        },
+        {
+          "id": 1143,
+          "round_id": 115,
+          "text": "She used the code to solve the puzzle",
+          "translation": "Она использовала код для решения головоломки"
+        },
+        {
+          "id": 1144,
+          "round_id": 115,
+          "text": "Scientists are still working on finding a cure for diabetes",
+          "translation": "Ученые все еще работают над поиском лекарства от диабета"
+        },
+        {
+          "id": 1145,
+          "round_id": 115,
+          "text": "The wildfires left the forest in a state of destruction",
+          "translation": "Лесные пожары покинули лес в состоянии разрушения"
+        },
+        {
+          "id": 1146,
+          "round_id": 115,
+          "text": "The police sometimes use DNA to solve crime",
+          "translation": "Полиция иногда использует ДНК для раскрытия преступлений"
+        },
+        {
+          "id": 1147,
+          "round_id": 115,
+          "text": "The game drew extensive media coverage",
+          "translation": "Игра привлекла широкое освещение в СМИ"
+        },
+        {
+          "id": 1148,
+          "round_id": 115,
+          "text": "She’s clever, and furthermore, she is not afraid of work",
+          "translation": "Она умная, а кроме того, она не боится работы"
+        },
+        {
+          "id": 1149,
+          "round_id": 115,
+          "text": "Gene therapy is sometimes used to treat an illness",
+          "translation": "Генная терапия иногда используется для лечения болезни"
+        },
+        {
+          "id": 1150,
+          "round_id": 115,
+          "text": "The two lines in the poem share a common link",
+          "translation": "Две строки в стихотворении имеют общую ссылку"
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "level_id": 3,
+      "name": "Two Peasant Women in the Peat Field",
+      "image": "assets/3/3_30.jpg",
+      "author": "GOGH, Vincent van",
+      "year": "1883",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 1151,
+          "round_id": 116,
+          "text": "He was the only male in the store",
+          "translation": "Он был единственным мужчиной в магазине"
+        },
+        {
+          "id": 1152,
+          "round_id": 116,
+          "text": "The population of our city is steadily growing",
+          "translation": "Население нашего города неуклонно растет"
+        },
+        {
+          "id": 1153,
+          "round_id": 116,
+          "text": "The result of her experiment was surprising",
+          "translation": "Результат ее эксперимента был удивительным"
+        },
+        {
+          "id": 1154,
+          "round_id": 116,
+          "text": "She added extra sugar to her tea",
+          "translation": "Она добавила дополнительный сахар в свой чай"
+        },
+        {
+          "id": 1155,
+          "round_id": 116,
+          "text": "The meeting room can accommodate nine people",
+          "translation": "Конференц-зал может вместить девять человек"
+        },
+        {
+          "id": 1156,
+          "round_id": 116,
+          "text": "My birthday coincides with Christmas",
+          "translation": "Мой день рождения совпадает с Рождеством"
+        },
+        {
+          "id": 1157,
+          "round_id": 116,
+          "text": "The artist was commissioned to create a picture",
+          "translation": "Художнику было поручено создать картину"
+        },
+        {
+          "id": 1158,
+          "round_id": 116,
+          "text": "Valery got her hair dyed at the salon yesterday",
+          "translation": "Валерия вчера покрасила волосы в салоне"
+        },
+        {
+          "id": 1159,
+          "round_id": 116,
+          "text": "He ate to such an extent that he became overweight",
+          "translation": "Он ел до такой степени, что стал лишним весом"
+        },
+        {
+          "id": 1160,
+          "round_id": 116,
+          "text": "Do you know the gender of her new baby?",
+          "translation": "Вы знаете пол ее нового ребенка?"
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "level_id": 3,
+      "name": "The Parsonage Garden at Nuenen in Spring",
+      "image": "assets/3/3_31.jpg",
+      "author": "GOGH, Vincent van",
+      "year": "1884",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 1161,
+          "round_id": 117,
+          "text": "The headline on the front page was about the economy",
+          "translation": "Заголовок на первой странице был об экономике"
+        },
+        {
+          "id": 1162,
+          "round_id": 117,
+          "text": "They had an informal meeting to talk about their experiences",
+          "translation": "У них была неформальная встреча, чтобы рассказать о своем опыте"
+        },
+        {
+          "id": 1163,
+          "round_id": 117,
+          "text": "The messenger delivered an important document to the office",
+          "translation": "Курьер доставил важный документ в офис"
+        },
+        {
+          "id": 1164,
+          "round_id": 117,
+          "text": "She peered at people through the window",
+          "translation": "Она смотрела на людей через окно"
+        },
+        {
+          "id": 1165,
+          "round_id": 117,
+          "text": "The kids and their dog posed for a picture",
+          "translation": "Дети и их собака позировали для картины"
+        },
+        {
+          "id": 1166,
+          "round_id": 117,
+          "text": "My uncle has many horses on his ranch",
+          "translation": "У моего дяди много лошадей на ранчо"
+        },
+        {
+          "id": 1167,
+          "round_id": 117,
+          "text": "He steered the go-cart around the track",
+          "translation": "Он вел повозку по трассе"
+        },
+        {
+          "id": 1168,
+          "round_id": 117,
+          "text": "The tame bird rested in his hand",
+          "translation": "Ручная птица покоилась в его руке"
+        },
+        {
+          "id": 1169,
+          "round_id": 117,
+          "text": "Smoking is banned in this building",
+          "translation": "Курение запрещено в этом здании"
+        },
+        {
+          "id": 1170,
+          "round_id": 117,
+          "text": "Be very cautious as you stack those boxes",
+          "translation": "Будьте очень осторожны, когда складываете эти коробки"
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "level_id": 3,
+      "name": "In the Jardin du Luxembourg",
+      "image": "assets/3/3_32.jpg",
+      "author": "GOGH, Vincent van",
+      "year": "1886",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 1171,
+          "round_id": 118,
+          "text": "The woman confessed that she had stolen the money",
+          "translation": "Женщина призналась, что украла деньги"
+        },
+        {
+          "id": 1172,
+          "round_id": 118,
+          "text": "My aunt lives in a pretty cottage in the mountains",
+          "translation": "Моя тетя живет в красивом коттедже в горах"
+        },
+        {
+          "id": 1173,
+          "round_id": 118,
+          "text": "I’m desperate to find a new job",
+          "translation": "Я отчаянно пытаюсь найти новую работу"
+        },
+        {
+          "id": 1174,
+          "round_id": 118,
+          "text": "After an exhausting journey, we finally arrived",
+          "translation": "После утомительного путешествия мы наконец прибыли"
+        },
+        {
+          "id": 1175,
+          "round_id": 118,
+          "text": "The piece of cloth I found was old and faded",
+          "translation": "Кусок ткани, который я нашел, был старым и выцветшим"
+        },
+        {
+          "id": 1176,
+          "round_id": 118,
+          "text": "Wolves are fierce animals. Do not disturb them",
+          "translation": "Волки - жестокие животные. Не беспокой их"
+        },
+        {
+          "id": 1177,
+          "round_id": 118,
+          "text": "Many people like to go to casinos to gamble",
+          "translation": "Многие люди любят ходить в казино, чтобы играть в азартные игры"
+        },
+        {
+          "id": 1178,
+          "round_id": 118,
+          "text": "I mow our lawn every weekend",
+          "translation": "Я подстригаю газон каждые выходные"
+        },
+        {
+          "id": 1179,
+          "round_id": 118,
+          "text": "My sister likes to buy designer purses",
+          "translation": "Моя сестра любит покупать дизайнерские кошельки"
+        },
+        {
+          "id": 1180,
+          "round_id": 118,
+          "text": "It seldom rains in southern Arizona",
+          "translation": "На юге Аризоны редко идут дожди"
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "level_id": 3,
+      "name": "View of Paris from Montmartre",
+      "image": "assets/3/3_33.jpg",
+      "author": "GOGH, Vincent van",
+      "year": "1886",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 1181,
+          "round_id": 119,
+          "text": "When I saw the ghost, I was absolutely terrified!",
+          "translation": "Когда я увидел призрака, я был в ужасе!"
+        },
+        {
+          "id": 1182,
+          "round_id": 119,
+          "text": "The wizard made gold fall from the sky",
+          "translation": "Волшебник заставил золото упасть с неба"
+        },
+        {
+          "id": 1183,
+          "round_id": 119,
+          "text": "My friend is going on a summer trip abroad",
+          "translation": "Мой друг отправляется в летнюю поездку за границу"
+        },
+        {
+          "id": 1184,
+          "round_id": 119,
+          "text": "The airline has excellent customer service",
+          "translation": "Авиакомпания имеет отличное обслуживание клиентов"
+        },
+        {
+          "id": 1185,
+          "round_id": 119,
+          "text": "He was excited to be part of the audience",
+          "translation": "Он был взволнован, чтобы быть частью аудитории"
+        },
+        {
+          "id": 1186,
+          "round_id": 119,
+          "text": "The lawyers took a brief break",
+          "translation": "Адвокаты сделали небольшой перерыв"
+        },
+        {
+          "id": 1187,
+          "round_id": 119,
+          "text": "The currency in China is different from that in Australia",
+          "translation": "Валюта в Китае отличается от валюты в Австралии"
+        },
+        {
+          "id": 1188,
+          "round_id": 119,
+          "text": "He saved all the data on his computer",
+          "translation": "Он сохранил все данные на своем компьютере"
+        },
+        {
+          "id": 1189,
+          "round_id": 119,
+          "text": "The airline has fifty domestic flights daily",
+          "translation": "Авиакомпания ежедневно совершает пятьдесят внутренних рейсов"
+        },
+        {
+          "id": 1190,
+          "round_id": 119,
+          "text": "He was writing his first draft",
+          "translation": "Он писал свой первый набросок"
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "level_id": 3,
+      "name": "Olive Picking",
+      "image": "assets/3/3_34.jpg",
+      "author": "GOGH, Vincent van",
+      "year": "1889",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 1191,
+          "round_id": 120,
+          "text": "We will gather the children before the meeting",
+          "translation": "Мы соберем детей до встречи"
+        },
+        {
+          "id": 1192,
+          "round_id": 120,
+          "text": "She liked to paint as a hobby",
+          "translation": "Она любила рисовать как хобби"
+        },
+        {
+          "id": 1193,
+          "round_id": 120,
+          "text": "She was saving her income to buy a house",
+          "translation": "Она копила деньги на покупку дома"
+        },
+        {
+          "id": 1194,
+          "round_id": 120,
+          "text": "Her company owns a private jet",
+          "translation": "Ее компания владеет частным самолетом"
+        },
+        {
+          "id": 1195,
+          "round_id": 120,
+          "text": "The maximum driving speed here is 80 km/h",
+          "translation": "Максимальная скорость движения здесь составляет 80 км / ч "
+        },
+        {
+          "id": 1196,
+          "round_id": 120,
+          "text": "Her official degree was being transferred",
+          "translation": "Ее официальная степень переводилась"
+        },
+        {
+          "id": 1197,
+          "round_id": 120,
+          "text": "His doctor will recommend the best medicine for her cough",
+          "translation": "Его доктор порекомендует лучшее лекарство от ее кашля"
+        },
+        {
+          "id": 1198,
+          "round_id": 120,
+          "text": "He lived in a remote village in the Himalayas",
+          "translation": "Он жил в глухой деревне в Гималаях"
+        },
+        {
+          "id": 1199,
+          "round_id": 120,
+          "text": "The fan helped to circulate cool air through the room",
+          "translation": "Вентилятор помог распространить прохладный воздух через комнату"
+        },
+        {
+          "id": 1200,
+          "round_id": 120,
+          "text": "Her consequent rash came after she touched the poisonous plant",
+          "translation": "Ее последующая сыпь появилась после того, как она коснулась ядовитого растения"
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "level_id": 3,
+      "name": "Landscape with Carriage and Train in the Background",
+      "image": "assets/3/3_35.jpg",
+      "author": "GOGH, Vincent van",
+      "year": "1890",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 1201,
+          "round_id": 121,
+          "text": "Red’s nickname was derived from the color of her hair",
+          "translation": "Прозвище Рэд произошло от цвета ее волос"
+        },
+        {
+          "id": 1202,
+          "round_id": 121,
+          "text": "Only a fraction of the cake was gone",
+          "translation": "Только часть пирога пропала"
+        },
+        {
+          "id": 1203,
+          "round_id": 121,
+          "text": "In the morning, the trees were all covered with frost",
+          "translation": "Утром деревья были покрыты инеем"
+        },
+        {
+          "id": 1204,
+          "round_id": 121,
+          "text": "Some pictures create an illusion for the eyes",
+          "translation": "Некоторые картины создают иллюзию для глаз"
+        },
+        {
+          "id": 1205,
+          "round_id": 121,
+          "text": "A healthy ocean is full of marine animals",
+          "translation": "Здоровый океан полон морских животных"
+        },
+        {
+          "id": 1206,
+          "round_id": 121,
+          "text": "My country is known for our strong navy",
+          "translation": "Моя страна известна нашим сильным флотом"
+        },
+        {
+          "id": 1207,
+          "round_id": 121,
+          "text": "The sun’s warm rays covered the beach",
+          "translation": "Солнечные теплые лучи покрыли пляж"
+        },
+        {
+          "id": 1208,
+          "round_id": 121,
+          "text": "Her underlying fear of flying reduced her traveling options",
+          "translation": "Ее страх перед полетом уменьшил ее возможности путешествовать"
+        },
+        {
+          "id": 1209,
+          "round_id": 121,
+          "text": "The man stood aside and opened the door for me",
+          "translation": "Человек стоял в стороне и открыл мне дверь"
+        },
+        {
+          "id": 1210,
+          "round_id": 121,
+          "text": "The tree collapsed right in front of our house",
+          "translation": "Дерево рухнуло прямо перед нашим домом"
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "level_id": 3,
+      "name": "Wheat Field under Clouded Sky",
+      "image": "assets/3/3_36.jpg",
+      "author": "GOGH, Vincent van",
+      "year": "1890",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 1211,
+          "round_id": 122,
+          "text": "The road curves to the left and to the right",
+          "translation": "Дорога изгибается влево и вправо"
+        },
+        {
+          "id": 1212,
+          "round_id": 122,
+          "text": "After running all day, Greg’s feet had a disgusting odor",
+          "translation": "После бега весь день у ног Грега был отвратительный запах"
+        },
+        {
+          "id": 1213,
+          "round_id": 122,
+          "text": "When they saw each other again, the happy couple embraced",
+          "translation": "Когда они снова увидели друг друга, счастливая пара обнялась"
+        },
+        {
+          "id": 1214,
+          "round_id": 122,
+          "text": "Sally envied the happy couple",
+          "translation": "Салли позавидовала счастливая пара"
+        },
+        {
+          "id": 1215,
+          "round_id": 122,
+          "text": "The display of fireworks was so beautiful",
+          "translation": "Фейерверк был так прекрасен"
+        },
+        {
+          "id": 1216,
+          "round_id": 122,
+          "text": "I wanted to bake a pie, but I needed flour",
+          "translation": "Я хотел испечь пирог, но мне нужна была мука"
+        },
+        {
+          "id": 1217,
+          "round_id": 122,
+          "text": "Ginger is a common ingredient in many dishes from India",
+          "translation": "Имбирь является распространенным ингредиентом во многих блюдах из Индии"
+        },
+        {
+          "id": 1218,
+          "round_id": 122,
+          "text": "My son needed some paste for a school project",
+          "translation": "Моему сыну нужна паста для школьного проекта"
+        },
+        {
+          "id": 1219,
+          "round_id": 122,
+          "text": "She wiped the dust from the windows",
+          "translation": "Она вытерла пыль с окон"
+        },
+        {
+          "id": 1220,
+          "round_id": 122,
+          "text": "The teacher acknowledged that the young student was hungry",
+          "translation": "Учитель признал, что молодой студент был голоден"
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "level_id": 3,
+      "name": "Wheat Field with Crows",
+      "image": "assets/3/3_37.jpg",
+      "author": "GOGH, Vincent van",
+      "year": "1890",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 1221,
+          "round_id": 123,
+          "text": "The ambassador from Korea was in charge of the conference",
+          "translation": "Посол из Кореи руководил конференцией"
+        },
+        {
+          "id": 1222,
+          "round_id": 123,
+          "text": "My cousin is a blonde with blue eyes",
+          "translation": "Мой двоюродный брат - блондинка с голубыми глазами"
+        },
+        {
+          "id": 1223,
+          "round_id": 123,
+          "text": "The soldiers were trying to conquer the world",
+          "translation": "Солдаты пытались покорить мир"
+        },
+        {
+          "id": 1224,
+          "round_id": 123,
+          "text": "The dog was dragging his owner down the street",
+          "translation": "Пес тащил своего хозяина по улице"
+        },
+        {
+          "id": 1225,
+          "round_id": 123,
+          "text": "Jimmy wasn’t exaggerating about the seriousness of his injury",
+          "translation": "Джимми не преувеличивал серьезность своей травмы"
+        },
+        {
+          "id": 1226,
+          "round_id": 123,
+          "text": "The girls insulted each other all afternoon",
+          "translation": "Девушки оскорбляли друг друга весь день"
+        },
+        {
+          "id": 1227,
+          "round_id": 123,
+          "text": "Joyce received a lovely pearl necklace for her wedding anniversary",
+          "translation": "Джойс получила прекрасное жемчужное ожерелье на годовщину свадьбы"
+        },
+        {
+          "id": 1228,
+          "round_id": 123,
+          "text": "In a desert, water can be more precious than money",
+          "translation": "В пустыне вода может быть дороже денег"
+        },
+        {
+          "id": 1229,
+          "round_id": 123,
+          "text": "The company’s rules against gender prejudice must be enforced",
+          "translation": "Должны соблюдаться правила компании против гендерных предрассудков"
+        },
+        {
+          "id": 1230,
+          "round_id": 123,
+          "text": "Carla was spreading rumors around the office",
+          "translation": "Карла распространяла слухи по офису"
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "level_id": 3,
+      "name": "The Meadow of San Isidro on his Feast Day",
+      "image": "assets/3/3_38.jpg",
+      "author": "GOYA Y LUCIENTES, Francisco de",
+      "year": "1788",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 1231,
+          "round_id": 124,
+          "text": "Taking something that doesn’t belong to you is a sin",
+          "translation": "Принимать то, что тебе не принадлежит, - грех"
+        },
+        {
+          "id": 1232,
+          "round_id": 124,
+          "text": "Niagara Falls is quite a spectacle",
+          "translation": "Ниагарский водопад - настоящее зрелище"
+        },
+        {
+          "id": 1233,
+          "round_id": 124,
+          "text": "Dad was suspicious of the caller on the line",
+          "translation": "Папа с подозрением относился к абоненту на линии"
+        },
+        {
+          "id": 1234,
+          "round_id": 124,
+          "text": "The vase was filled with such lovely flowers",
+          "translation": "Ваза была наполнена такими прекрасными цветами"
+        },
+        {
+          "id": 1235,
+          "round_id": 124,
+          "text": "Mindy’s head ached because she bumped it against the wall",
+          "translation": "Голова Минди болела, потому что она ударилась об стену"
+        },
+        {
+          "id": 1236,
+          "round_id": 124,
+          "text": "It is cold when the arctic winds blow",
+          "translation": "Холодно, когда дуют арктические ветры"
+        },
+        {
+          "id": 1237,
+          "round_id": 124,
+          "text": "The city of Venice, Italy, has many canals",
+          "translation": "Город Венеция, Италия, имеет много каналов"
+        },
+        {
+          "id": 1238,
+          "round_id": 124,
+          "text": "The chill from the cold wind made Bill shiver",
+          "translation": "Холод от холодного ветра заставил Билла дрожать"
+        },
+        {
+          "id": 1239,
+          "round_id": 124,
+          "text": "Congress makes laws for people to follow",
+          "translation": "Конгресс издает законы, которым люди должны следовать"
+        },
+        {
+          "id": 1240,
+          "round_id": 124,
+          "text": "Things like milk and cheese are dairy foods",
+          "translation": "Такие вещи, как молоко и сыр, являются молочными продуктами"
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "level_id": 3,
+      "name": "Dune Landscape",
+      "image": "assets/3/3_39.jpg",
+      "author": "GOYEN, Jan van",
+      "year": "1631",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 1241,
+          "round_id": 125,
+          "text": "I descended the stairs to get out of the building",
+          "translation": "Я спустился по лестнице, чтобы выйти из здания"
+        },
+        {
+          "id": 1242,
+          "round_id": 125,
+          "text": "Our grocer, Mr. Smith, is a very kind man",
+          "translation": "Наш бакалейщик, мистер Смит, очень добрый человек"
+        },
+        {
+          "id": 1243,
+          "round_id": 125,
+          "text": "He jogs every day so he can be healthier",
+          "translation": "Он бегает трусцой каждый день, чтобы стать здоровее"
+        },
+        {
+          "id": 1244,
+          "round_id": 125,
+          "text": "The merchant was selling used cars",
+          "translation": "Купец продавал подержанные автомобили"
+        },
+        {
+          "id": 1245,
+          "round_id": 125,
+          "text": "I poked my finger on a thumb tack",
+          "translation": "Я ткнул пальцем в гвоздь большого пальца"
+        },
+        {
+          "id": 1246,
+          "round_id": 125,
+          "text": "They postponed the meeting until Elena arrived",
+          "translation": "Они отложили встречу до прибытия Елены"
+        },
+        {
+          "id": 1247,
+          "round_id": 125,
+          "text": "Some green paint splashed upon the floor",
+          "translation": "На пол брызнула зеленая краска"
+        },
+        {
+          "id": 1248,
+          "round_id": 125,
+          "text": "The bomb will destroy anything that is nearby",
+          "translation": "Бомба уничтожит все, что находится рядом"
+        },
+        {
+          "id": 1249,
+          "round_id": 125,
+          "text": "I was given a certificate for completing the computer course",
+          "translation": "Мне дали сертификат на прохождение компьютерного курса"
+        },
+        {
+          "id": 1250,
+          "round_id": 125,
+          "text": "There were many circumstances behind their success, like hard work",
+          "translation": "За их успехом стояли многие обстоятельства, такие как тяжелая работа"
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "level_id": 3,
+      "name": "Haymaking",
+      "image": "assets/3/3_40.jpg",
+      "author": "GOYEN, Jan van",
+      "year": "1630",
+      "language": "en-US",
+      "sentences": [
+        {
+          "id": 1251,
+          "round_id": 126,
+          "text": "She had a lot of criticism about their new plan",
+          "translation": "У нее было много критики по поводу их нового плана"
+        },
+        {
+          "id": 1252,
+          "round_id": 126,
+          "text": "The entire wall was devastated",
+          "translation": "Вся стена была опустошена"
+        },
+        {
+          "id": 1253,
+          "round_id": 126,
+          "text": "Germs cannot be seen without a microscope",
+          "translation": "Микробов нельзя увидеть без микроскопа"
+        },
+        {
+          "id": 1254,
+          "round_id": 126,
+          "text": "Nuclear power plants provide inexpensive energy to cities",
+          "translation": "Атомные электростанции обеспечивают города недорогой энергией"
+        },
+        {
+          "id": 1255,
+          "round_id": 126,
+          "text": "An airplane’s propellers rotate quickly to help it fly",
+          "translation": "Винты самолета быстро вращаются, чтобы помочь ему летать"
+        },
+        {
+          "id": 1256,
+          "round_id": 126,
+          "text": "He traced over the graph with his finger",
+          "translation": "Он провел пальцем по графику"
+        },
+        {
+          "id": 1257,
+          "round_id": 126,
+          "text": "Icy roads deter people from driving their cars",
+          "translation": "Ледяные дороги удерживают людей от вождения их автомобилей"
+        },
+        {
+          "id": 1258,
+          "round_id": 126,
+          "text": "The thieves devised a plan to steal the diamonds",
+          "translation": "Воры разработали план, чтобы украсть алмазы"
+        },
+        {
+          "id": 1259,
+          "round_id": 126,
+          "text": "The distance between America and Russia is about 8,000 km",
+          "translation": "Расстояние между Америкой и Россией составляет около 8000 км "
+        },
+        {
+          "id": 1260,
+          "round_id": 126,
+          "text": "The school decided to implement a new teaching strategy",
+          "translation": "Школа решила внедрить новую стратегию обучения"
+        }
+      ]
+    }
+  ]
+}
