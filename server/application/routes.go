@@ -44,7 +44,7 @@ func (a *App) loadSessionRoutes(router chi.Router) {
 		URepo: &user.SQLRepo{
 			DB: a.db,
 		},
-		Key: []byte("Your key here"),
+		Key: []byte("signingkey"),
 	}
 
 	router.Get("/", sessionHandler.Create)
@@ -55,7 +55,7 @@ func (a *App) loadLevelRoutes(router chi.Router) {
 		LRepo: &level.SQLRepo{
 			DB: a.db,
 		},
-		Key: []byte("Your key here"),
+		Key: []byte("signingkey"),
 	}
 
 	router.Post("/", levelHandler.Post)

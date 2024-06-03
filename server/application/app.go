@@ -44,9 +44,9 @@ func New() *App {
 	return app
 }
 
-func (a *App) Start(ctx context.Context) error {
+func (a *App) Start(ctx context.Context, port string) error {
 	server := &http.Server{
-		Addr:    "127.0.0.1:3000",
+		Addr:    fmt.Sprintf("127.0.0.1:%s", port),
 		Handler: a.router,
 	}
 
@@ -74,7 +74,7 @@ func (a *App) Start(ctx context.Context) error {
 		}
 	}()
 
-	fmt.Println("Server is running... [http://127.0.0.1:3000]")
+	fmt.Printf("Server is running... [http://127.0.0.1:%s]\n", port)
 
 	ch := make(chan error, 1)
 
